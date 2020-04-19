@@ -1,0 +1,728 @@
+Doc Class     : [twoside,12pt,titlepage,onecolumn,a4paper]article
+
+Package       : clear
+Package       : madoko_mod.sty
+Package       : multicol
+Package       : [brazil]babel
+Package       : [vmargin=1in,hmargin=1in,headsep=0in]geometry
+Package       : setspace
+Package       : mathptmx
+Package       : stackengine
+Package       : url
+Package       : titlesec
+
+Title         : Memorial de Atividades, Títulos, e Publicações
+Subtitle      : Concurso de Professor Doutor em RDIDP no Departamento de Genética e Biologia Evolutiva
+
+Author        : Instituto de Biociências
+email         : Universidade de São Paulo
+
+
+Author        : Diogo Melo
+email         : diogro@usp.br
+
+Bibliography   : memorial.bib
+Bib Style      : apalike
+Cite Style     : natural
+Bib Search Url : 
+
+
+Heading depth : 0
+Logo          : False
+Locale        : pt_br
+Toc Depth     : 1
+
+name-contents  : Conteúdo
+name-references: Referências
+name-figures   : Documentos
+name-figure    : Documento
+
+Tex header    : \onehalfspacing
+Tex header    : \titlespacing*{\section}
+Tex header    : {0pt}{0.08in}{0.05in}
+Tex header    : \titlespacing*{\subsection}
+Tex header    : {0in}{0.1in}{0pt}
+Tex header    : \titlespacing*{\subsubsection}
+Tex header    : {0.2in}{0.1in}{0pt}
+Tex header    : \urlstyle{same}
+Tex header    : \setmainfont[Ligatures=TeX,
+Tex header    :   BoldFont=SkolarPETEST-Bold.otf,
+Tex header    :   ItalicFont=SkolarPETEST-Italic.otf,
+Tex header    :   Numbers=Lowercase, Fractions=Off]{SkolarPETEST-Regular.otf}
+Tex header    : \newfontfamily\headingfont{SkolarSansPETEST-Rg.otf}
+Tex header    : \newfontfamily\titlefont{SkolarSansPETEST-Rg.otf}
+Tex header    : \titleformat*{\section}{\LARGE\headingfont}
+Tex header    : \titleformat*{\subsection}{\Large\headingfont}
+Tex header    : \titleformat*{\subsubsection}{\large\headingfont}
+Tex header    : \renewcommand{\maketitlehooka}{\titlefont}
+
+
+[TITLE]
+
+
+[TOC]
+
+~~ {text-align: center } 
+**Apresentação** 
+~~
+
+~~ { font-size: small }
+Apresento este memorial atendendo o Edital IB/AAcad/04/2020 publicado pela reitoria da Universidade de São
+Paulo no Diário Oficial da União de 18 de Janeiro de 2020, referente ao concurso para
+o cargo de professor doutor, em Regime de RDIDP, junto ao Departamento de Genética e Biologia Evolutiva do Instituto de Biociências da Universidade de São Paulo.
+
+No que se segue apresento minha trajetória acadêmica, incluindo experiencia didática e de pesquisa. Destaco alguns projetos em que trabalhei, e 
+como cada parte da minha trajetória contribuiu para minha formação como pesquisador.
+~~
+
+~ TexRaw
+\newpage
+~
+
+# Graduação
+
+##Ciências Moleculares
+
+A escolha de um curso de graduação voltado para a pesquisa científica foi um processo bastante natural para mim, muito por influência de minha mãe, que é pesquisadora e professora da USP. Foi ela quem me primeiro me apresentou o curso de ciências moleculares (CCM), já que um aluno do curso havia a procurado e estava fazendo iniciação científica em seu laboratório no Instituto de Ciências Biomédicas. Acabei prestando biologia com a intenção de prestar a prova pra o CCM assim que possível, já que, apesar de ser um curso de bacharelado de quatro anos, o CCM não possui ingresso direto pelo vestibular, e a seleção é feita por uma prova no meio do ano letivo. Apesar dessa convicção, e de ter sido aprovado na prova, eu havia me identificado com a biologia, e pensei em não me inscrever no curso. Foi um aluno do curso que eu havia conhecido na época, e que hoje é um bom amigo, que me convenceu a fazer a matrícula. Hoje vejo que mudar de curso foi uma decisão extremamente acertada, e após apenas seis meses no curso de biologia, me mudei para o ciências moleculares.
+
+O CCM é um curso especial na sua estrutura. Nos dois primeiros anos, no ciclo básico, os alunos cursam um conjunto bastante pesado de disciplinas obrigatórias que fornecem uma base sólida em física, química, matemática, computação e, na época em que eu fiz o curso, aspectos mais microscópicos de biologia, como biologia celular, molecular e bioquímica. Os últimos dois anos do curso, o ciclo avançado, são de total liberdade acadêmica. Cada aluno monta, junto com seu orientador, uma grade curricular voltada para atender as demandas da área em que o aluno resolveu se especializar, podendo cursar qualquer disciplina da universidade, sem restrição. A exigência acadêmica do ciclo básico e a liberdade do ciclo avançado faz com que cada turma do CCM seja única, formada de pessoas com especialidades diversas, habilidades e interesses complementares, e que mesmo assim compartilham uma linguagem em comum, estabelecida no ciclo básico. No CCM eu convivi com físicos de partículas a historiadores da ciência, num ambiente que promove a camaradagem e ajuda mútua num processo de aprendizagem desafiador e intenso. Durante o curso, aprendi de igualmente dos professores e colegas, e gosto de pensar que também contribui no aprendizado do resto da turma. O curso exigiu muito de nós todos, e foi um processo de formação crucial para definir como eu lido com as pressões do ambiente acadêmico. O ciclo básico do ciências moleculares é tão difícil que faz com que as cobranças do ciclo avançado e da graduação em biologia parecessem bastante brandas, e terminei a segunda metade do CCM e o restante do curso de biologia sem grandes dificuldades, podendo também me dedicar a atividades de pesquisa.
+
+Durante o ciclo avançado, comecei minha experiência com pesquisa no laboratório da Prof. Vera Bohomoletz Henriques, do Departamento de Física geral do Instituto de Física da USP. A Prof. Vera lidera um laboratório que integra a teoria de mecânica estatística, uma generalização da termodinâmica, com processos biológicos no nível celular. Meu interesse pelas questões da biologia e os métodos da física me atraíram para esse linha de pesquisa, e comecei um projeto de iniciação científica explorando modelos computacionais para o estudo de transições de fase em membranas biológicas. A ideia do projeto era de recuperar em simulações computacionais comportamentos termodinâmicos observados em experimentos com membranas celulares, e com isso entender quais processos eram importantes para definir o comportamento das membranas. Para isso, nós utilizamos modelos simples de interações entre os fosfolipídeos que compõem as membranas celulares. Este projeto foi meu primeiro contato com uso de simulações em pesquisa, e apresentei resultados preliminares num pequeno congresso em 2007, o _V Brazilian Meeting on Simulational Physics_ em Ouro Preto.
+
+O interesse pelas membranas celulares, que eram o sistema motivador do meu projeto de iniciação científica, e o contato familiar, me levaram a cursar e a atuar como monitor por vários anos da disciplina de fisiologia de membranas que o Prof. Antônio Carlos Cassola ministrava para o curso de medicina da USP. O Prof. Cassola, que era casado com minha mãe, foi uma influência acadêmica importante na minha trajetória, e no nosso convívio cotidiano e na universidade me imbuiu de um profundo respeito pelo debate científico e pelo processo de fazer ciência. Um professor excelente em sala de aula, com domínio absolutamente completo do tema e um programa de ensino desafiador, Cassola me ensinou muito sobre biologia, e atuar na sua disciplina foi o catalizador de um hábito de sempre estar envolvido com monitorias em diversas disciplinas, mesmo que não diretamente relacionadas com minha pesquisa. Como um exemplo de como o Prof. Cassola influenciou minha visão de ciência, quando entrei na graduação em biologia, 2003, ele me presenteou com o livro _What is life?_[^fn], no qual o físico Erwin Schrödinger, um dos principais nomes da mecânica quântica do começo do século XX, discute os aspectos fundamentais dos seres vivos, e as propriedades que uma molécula responsável pela herança genética deveria possuir. Sem nenhuma intenção de me comparar ao Schrödinger, essa escolha de presente acabou sendo presciente da minha trajetória, já que depois do estudo de física e computação eu voltaria a me dedicar à biologia.
+
+[^fn]: Schrodinger, R., & Schrödinger, E. (1944). What is life?: With mind and matter and autobiographical sketches. Cambridge University Press (re-editado em 1992).
+
+O trabalho na física também me colocou em contato com outro grupo de pesquisa no mesmo departamento, no qual alguns colegas de graduação faziam as suas iniciações científicas, o do Prof. Nestor Caticha. O grupo de mecânica estatística do processamento de informação do Prof. Caticha era surpreendentemente multidisciplinar, e aplicava métodos modernos de física e estatística em problemas vindos da economia, sociologia, biologia e outras áreas da física. Os encontros semanais do grupo eram muito intelectualmente estimulantes, e acabaram me influenciando mais que meu próprio projeto. Mesmo durante o mestrado continuei frequentando as reuniões semanais. Nelas, apresentei previas de qualificações e palestras ao grupo, que trazia ideias novas e uma visão externa à biologia que contribuiu para enriquecer minha visão teórica e metodológica dos problemas que abordei durante minha formação. Em particular, foi neste grupo que eu fui apresentado aos métodos Bayesianos, que vieram a se tornar um dos meus principais focos de estudo e atuação na pesquisa. Este é um ponto incomum da minha trajetória acadêmica, já que o tema de estatística Bayesiana raramente é apresentado em cursos introdutórios, sendo tradicionalmente abordado somente após um contato com métodos mais tradicionais. Acredito que isso tenha sido uma vantajem no meu domínio destes métodos, já que eu tinha menos conceitos e preconceitos de outras metodologias.
+
+## Ciências Biológicas
+
+Tendo me formado no ciências moleculares e encerrado meu projeto de iniciação com a Prof. Vera Henriques, percebi que, apesar do interesse pelos métodos utilizados na física, eu tinha mais interesse pelos problemas levantados na biologia, e decidi retornar à graduação em biologia e aplicar as técnicas que aprendi na física a problemas mais biológicos. Ao voltar para o curso de biologia, conversei com alguns professores do Instituto de Biociências, e acabei optando por me juntar ao grupo do Laboratório de Evolução de Mamíferos (LEM) do Prof. Gabriel Marroig. Eu tinha alguns bons amigos no laboratório do Gabriel na época, e lembro que quando conversamos pela primeira vez, tendo sido apresentados por estes amigos, o Gabriel me disse que o laboratório estava muito cheio, que seria difícil eu entrar naquele momento. Quando eu mencionei que estava vindo da física, ele perguntou se eu sabia programar, e quando disse que sim, imediatamente falou para marcarmos uma conversa. Foi uma sorte, pois nesse momento se iniciou uma colaboração extremamente frutífera e bem sucedida. 
+
+Durante minha iniciação no LEM, trabalhei com métodos computacionais para produzir estimativas de matrizes de covariância mais robustas à problemas de amostragem, e que pudessem ser usadas para reconstruir a história evolutiva de fenótipos complexos de forma mais acurada[^fn2]. Este projeto resultou no primeiro artigo em que eu participei ativamente na pesquisa, escrita e publicação [@Marroig2012-jd]. Foi um processo bastante longo de publicação[^fn3]. Após uma rejeição acompanhada de boas revisões numa revista prestigiosa, fizemos uma segunda versão bastante modificada e expandida, que foi aceita, incluindo uma parte adicional feita pelo Dr. Guilherme Garcia, que era um aluno de mestrado na época. Foi meu primeiro projeto com o Guilherme, e mais tarde nós viríamos a trabalhar juntos em outros métodos computacionais aplicados a evolução. Em retrospecto, eu sabia bem menos estatística do que achava, e certamente teria escrito outro manuscrito hoje, mas os métodos e conclusões continuam relevantes e robustos. 
+
+[^fn2]: Esse pequeno resumo do meu primeiro trabalho  ilustra como a minha caminhada para problemas mais biológicos foi na verdade bastante gradual.
+
+[^fn3]: Foi neste trabalho que aprendi a não colocar datas em nomes de arquivos de manuscritos. Tive que mudar o ano no nome do arquivo duas vezes.
+
+
+# Mestrado
+
+Depois de concluir a graduação em biologia, fiquei convencido que evolução era a área da pesquisa em biologia que mais me atraía. A pesquisa em genética de populações e biologia evolutiva depende de modelos matemáticos bem estabelecidos, que me dariam uma oportunidade de usar as técnicas matemáticas e computacionais que aprendi na física e no curso de ciências moleculares. Além disso, é uma área com diversas perguntas em aberto e que fornece os processos fundamentais para compreender processos biológicos em todos os níveis de organização. 
+
+Pensando nisso, ao longo da minha iniciação eu e o Gabriel amadurecemos um projeto de pesquisa para o meu mestrado totalmente baseado em simulações que fosse relevante para o restante das linhas de pesquisa do LEM. Meu objetivo com esse projeto era trazer para o laboratório algo que em física é algumas vezes chamado e triangulo de Landau[^fn4]: um triangulo equilátero que nos vértices traz as metodologias complementares de __experimento__, __teoria__ e __simulação__. O triangulo ilustra como esses 3 elementos podem atuar em sinergia para auxiliar o desenvolvimento científico. Uma parte fundamental das linhas de pesquisa no LEM era catalogar os padrões de associação genética entre traços fenotípicos em diversos grupos de mamíferos, e relacionar essa associação com a diversificação morfológica dos grupos. Existe uma expectativa teórica de que as associações genéticas deveriam afetar diversificação de curto prazo, e dois resultados empíricos relevantes: (1) os padrões de associação genética são relacionados à função desempenhada pelos diferentes traços; (2) os padrões de associação são extremamente estáveis em mamíferos, sendo compartilhados por diversos grupos evolutivamente distantes. Nesse contexto, nós nos perguntamos se poderíamos entender como essas associações entre diversos caracteres se estabeleciam, e como elas eram mantidas. Para isso, eu desenvolvi um modelo baseado em indivíduos que incluía uma arquitetura genética variável, capaz de responder a processos evolutivos. Utilizando esse modelo, mostramos que seleção direcional é um poderoso fator no estabelecimento de associações genéticas, e que seleção estabilizadora era necessária para manter os padrões a longo prazo. Nosso modelo foi o primeiro capaz de simular cenários evolutivos complexos em múltiplos caracteres utilizando uma base genética variável. Este trabalho foi meu primeiro artigo como primeiro autor, e foi publicado na revista PNAS [@Melo2015-bk].
+
+[^fn4]: O nome faz referência ao físico David P. Landau, conhecido pelo algoritmo de Wang-Landau, um método de Monte Carlo utilizado amplamente em mecânica estatística. É um algoritmo interessante, que usa a técnica de solução de problemas contra-intuitiva de, quando confrontado com um problema complicado, encontrar um jeito de complicar ainda mais que leva a uma solução.
+
+Durante o mestrado eu me dediquei também a aprofundar meus estudos em estatística Bayesiana, lendo alguns livros texto que hoje norteiam minha prática de pesquisa, em particular os livros _Probability Theory_[^fn5], de Edwin T. Jaynes, e _Bayesian Data Analysis_[^fn6], de Andrew Gelman e colaboradores. Esse estudo prolongado ao longo do mestrado, aliado ao contato com o grupo do Prof. Caticha, me forneceram uma base teórica para desenvolver modelos estatísticos customizados para problemas de diversas áreas da biologia. Essa habilidade de rendeu colaborações proveitosas durante o doutorado. Listo alguns dos artigos que publiquei como colaborador, nos quais eu fui o principal responsável pela análise de dados, ou pelo desenvolvimento de um modelo adaptado a um problema específico: @Wolf2015-es, @Hubbe2016-za, @Costa2016-mv, @Fukimoto2020-oy. 
+
+O mestrado também foi quando começou minha relação com a linguagem de programação R, que se tornou minha principal ferramenta de trabalho. Cursei a disciplina de R oferecida pelos professores Paulo Inácio Prado e Alexandre Adalardo do Departamento de Ecologia do IB-USP, e depois disso passei a utilizar R quase que exclusivamente para minhas analises e projetos. Fui monitor da disciplina de R praticamente todos os anos desde então. Usando essa ferramenta poderosa, e junto com o Dr. Guilherme Garcia, que mencionei anteriormente, no final do mestrado eu comecei um processo de padronização e implementação em R das rotinas de analise usadas no LEM.
+
+[^fn5]: Jaynes, E. T. (1996). Probability theory: the logic of science. St. Louis, MO: Washington University.
+
+[^fn6]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). Bayesian data analysis. CRC press.
+
+# Entre mestrado e doutorado
+
+Após o mestrado, decidi me dedicar totalmente ao esforço de padronização e implementação em R das rotinas de analise do LEM. Em colaboração com o Guilherme, e partindo das rotinas que ele havia usado no seu mestrado, eu reimplementei o _workflow_ do laboratório em R, criando um conjunto de rotinas modulares, eficientes e de fácil disseminação na comunidade científica. O resultado foi o pacote EvolQG[^fn7], que centraliza boa parte das analises em genética quantitativa aplicada a evolução [@Melo2015-kf]. Foi durante esse período que eu realmente entendi como gerenciar um projeto grande em R, e passei pelo processo de criar um conjunto de ferramentas abertas para uso da comunidade científica em geral. Hoje o pacote conta com mais de 21.000 _downloads_, sendo amplamente utilizado pela comunidade de genética quantitativa.
+
+[^fn7]: [https://cran.r-project.org/web/packages/evolqg/index.html](https://cran.r-project.org/web/packages/evolqg/index.html).
+
+# Doutorado
+
+Durante o período entre o mestrado e o doutorado, comecei a me envolver com um projeto experimental que o Prof. Gabriel vinha planejando há algum tempo, em colaboração com o Prof. Jason Wolf, da Universidade de Bath no Reino Unido. A ideia do projeto era de explorar a arquitetura genética de fenótipos complexos utilizando um cruzamento experimental entre linhagens de camundongos que haviam sido selecionadas para mudanças em suas curvas de crescimento. O projeto era grande e ambicioso, envolvendo um longo período de criação da nova colônia de animais. O plano era partir de seis linhagens fundadoras homozigotas, e criar uma colônia que seria mantida por várias gerações de cruzamentos, mantendo populações efetivas acima de 400 indivíduos a cada geração. Na sexta e última geração, a F6, criaríamos uma população de mais de 1600 indivíduos, divididos em 160 famílias, que seriam extensamente fenotipados para diversos traços, tais como curva de crescimento, composição corporal, morfologia craniana, entre outros. Além disso, todos os animais das gerações F5 e F6 seriam genotipados utilizando um micro-arranjo desenhado especificamente para essa colônia. Com esse rico banco de dados, estaríamos na fronteira da investigação experimental da evolução dos efeitos genéticos em caracteres complexos, e poderíamos relacionar diretamente o processo evolutivo com a arquitetura genética destes caracteres. Este projeto me interessou muito, principalmente por que ele me daria a oportunidade de avaliar experimentalmente as previsões feitas pelo meu modelo de simulação no mestrado. Era uma oportunidade de estudar como a arquitetura genética interage com um evento de seleção artificial. 
+
+O problema é que esse projeto significava passar no mínimo 3 anos sem nenhum resultado, e exigiria um longo processo de coleta de dados mesmo após os primeiros resultados[^fn8]. Além disso, boa parte do experimento e da coleta de dados aconteceria na Universidade de Bath, onde eu passaria no máximo alguns meses de cada vez. Essa distancia do dia a dia do projeto, e a demora para começarmos a ver resultados foi um desafio importante, e me obrigou a organizar meu tempo de forma inteligente, de forma que eu pudesse atender as demandas do projeto principal e ao mesmo tempo encontrar projetos alternativos que me permitissem concluir o doutorado no prazo de 5 anos.
+
+[^fn8]: Na prática a coleta de dados só foi terminada em 2020, mais de um ano após o final do meu doutorado.
+
+Logo no inicio do doutorado, em 2014, eu vistei o laboratório do Prof. Jason por 3 meses. Foi um período extremamente rico, em que participei do inicio do estabelecimento da colônia de camundongos, trabalhando em colaboração com a pós-doutoranda que seria a principal responsável por realizar a criação dos camundongos, Dra. Eleanor O'Brien. Durante esse período eu colaborei com o Prof. Jason em um projeto paralelo. Neste trabalho, nós desenvolvemos um modelo Bayesiano para analisar os dados de um experimento feito com a ameba _Dictyostelium discoideum_, um eucarioto unicelular que é uma espécie-modelo de colaboração altruística. Nós exploramos um caso de coexistência entre linhagens de _Dictyostelium_, no qual linhagens egoístas conviviam com linhagens colaboradoras. Essa situação apresenta um desafio teórico, já que, segundo a teoria, a linhagem _egoísta_, ao se aproveitar do altruísmo de uma linhagem _colaboradora_ sem incorrer os custos do comportamento altruísta, deveria excluir a linhagem colaboradora competitivamente. Essa exclusão não acontece, e nós mostramos que a coexistência era possível devido à presença de demandas conflitantes entre diferentes fases do ciclo de vida das amebas. Considerando todas os componentes da aptidão, em todas as fases do ciclo de vida e não só durante a interação entre linhagens, tanto as linhagens _egoístas_ quando as _colaboradoras_ apresentavam aptidões semelhantes. Um exemplo de aplicação de genética quantitativa a um campo bastante diverso, este trabalho foi publicado em @Wolf2015-es, tendo tido uma recepção bastante positiva, sendo inclusive recomendado pela _Faculty of 1000_[^fn9].
+
+[^fn9]: [https://f1000.com/prime/725409260](https://f1000.com/prime/725409260)
+
+Eu ainda voltaria para a Universidade de Bath uma segunda vez, durante 5 meses em 2016, agora a tempo de participar dos estágios finais da colônia de camundongos. Desta vez participei ativamente da coleta de dados de composição corporal dos animais de F6, além de me tornar o principal responsável pro desenhar o micro-arranjo que depois foi usado para aferir os genótipos de todos os animais das gerações F5 e F6. Foi meu primeiro contato com dados genômicos e ferramentas de bioinformática, e novamente um momento de grande aprendizado. Durante essa segunda visita, eu e Jason nos dedicamos ao desenvolvimento de métodos voltados para a análise da arquitetura genética de caracteres complexos, no mesmo estilo dos que seriam necessários quanto tivéssemos acesso aos dados do nosso experimento. Para isso, nós utilizamos um banco de dados antigo, do laboratório do Prof. James Cheverud, que tinha uma estrutura parecida com os dados que viriam do nosso experimento. Com esses dados, exploramos novas técnicas de mapeamento genético desenhadas para aferir o padrão de efeitos genéticos em vários caracteres simultaneamente, e relacioná-los com a história evolutiva da população estudada. Novamente, meu conhecimento de estatística Bayesiana foi fundamental, e eu desenhei toda a estratégia de análise, contando com a ajuda preciosa do Prof. Jason. Este trabalho resultou num manuscrito que se tornou um dos capítulos da minha tese, e foi publicado em @Melo2019-le.
+
+Entre as visitas a Bath, no Brasil, distante do dia a dia do experimento com os camundongos, me vi com a possibilidade de me envolver com projetos em colaboração com os outros membros do LEM. Durante o ano de 2015, comecei um projeto com uma aluna de mestrado do LEM, a Anna Penna, que hoje é doutoranda na Universidade do Texas em San Antonio. A Anna estava no meio de um mestrado grande, e com um conjunto de dados coletados durante a iniciação que não haviam sido explorados com cuidado. Eram dados de morfologia craniana de 5 populações experimentais de camundongos derivadas da mesma população ancestral, sendo duas populações selecionadas para aumento de peso, duas selecionadas para diminuição de peso, e uma controle. Trabalhando junto com a Anna, eu percebi que esse conjunto seria ideal para o estudo da evolução da covariação craniana sob seleção direcional, novamente um modelo experimental que se relacionava com minhas simulações feitas durante o mestrado. Num trabalho a quatro mãos, eu e Anna analisamos estes dados sob a perspectiva da covariação fenotípica, e encontramos um claro padrão de mudança na organização da variação das linhagens selecionadas, compatível com as previsões do meu trabalho de mestrado. Este trabalho foi publicado em @Penna2017-if, sendo que eu e Anna aparecemos como co-primeiro autores, e também é um dos capítulos da minha tese.
+
+Além da colaboração com a Anna, em 2015 eu também tive o privilegio, junto com o Prof. Gabriel, Prof. James Cheverud e um ex-aluno de doutorado do LEM o Dr. Arthur Porto, de escrever uma revisão para um dos periódicos da _Annual Reviews_. O Gabriel havia sido convidado para escrever um artigo sobre modularidade, e convidou nós três para participar. O Prof. Cheverud ficou responsável pela elaboração de uma introdução histórica ao conceito de modularidade, enquanto eu e Arthur lideramos a elaboração da maior parte do manuscrito e da produção de figuras. Nós quatros escrevemos a primeira versão do manuscrito em pouco mais de um mês de trabalho intenso, mas que foi extremamente gratificante. Conseguimos apresentar um resumo didático da aplicação da teoria de modularidade em diversos níveis de organização biológica, e, usando ideias do Gabriel, propor um papel maior para a modularidade e covariação genética na diversificação macroevolutiva. Este trabalho foi um dos capítulos da minha tese e foi publicado em @Melo2016-yw.
+
+Finalmente, em 2017, depois de uma série de atrasos, começamos a ter os primeiros resultados do trabalho com o Prof. Jason. Analisando os dados que tínhamos naquele momento, utilizando as ideias que desenvolvemos na minha segunda visita a Bath, produzi um conjunto de resultados preliminares que relacionava o padrão de efeitos genéticos nos fenótipos de curva de crescimento dos nossos camundongos com a história evolutiva das linhagens fundadoras. Usando um modelo de simulação mais complexo do que o que utilizei no mestrado, consegui também elucidar como o padrão de seleção nas linhagens fundadoras definia os efeitos genéticos que observamos na nossa geração F6. Este trabalho foi apresentado no congresso internacional de evolução em 2018, e se tornou um dos capítulos da minha tese. Esse capítulo não foi publicado, em parte porque ao mesmo tempo em que eu o escrevia, em setembro de 2018, o Tomás nasceu, meu primeiro filho, um mês antes do planejado! 
+
+Em retrospecto, todas essas linhas de pesquisa e bancos de dados diferentes acabaram por se juntar numa tese coesa, que explorava de diferentes formas o problema da evolução das associações genéticas e suas consequências evolutivas. Enquanto o laboratório do Gabriel sempre foi muito eloquente em descrever e entender padrões de covariação genética em mamíferos numa escala macroevolutiva, meu trabalho acabou por estender essa linha de pesquisa para um lado mais genético, trazendo a complexidade da arquitetura genética para a discussão. Processos evolutivos moldam a arquitetura genética, e a arquitetura genética afeta como as populações respondem a processos evolutivos, num processo de _feedback_ complexo. Explorar essa interação se tornou o cerne da minha linha de pesquisa.
+
+# Pós-doutorado
+
+Um dos planos iniciais que o Gabriel pensava para meu projeto de doutorado era de medir fenótipos cranianos de alta resolução nos camundongos da nossa população experimental. Como eu tinha bastante dúvida se teríamos tempo para isso, não inclui essa empreitada em nenhum dos projetos submetidos durante o doutorado, me limitando aos fenótipos que poderiam ser coletados concomitantemente ao desenvolvimento da colônia: taxas de crescimento e composição corporal. Porém, já nos dois últimos anos de doutoramento, eu comecei o processo de digitalizar os crânios dos animais da F6 no micro-tomografo de alta resolução do departamento de genética e biologia evolutiva. 
+
+Escanear os animais foi um processo extremamente trabalhoso. Os animais chegaram no Brasil no começo de 2017, e nessa época eu co-orientava uma aluna de iniciação fantástica, a Beatriz Demasi, que me ajudou muito no processo de importação dos animais do Reino Unido. Eu e a Beatriz passamos algumas semanas desempacotando os cerca de 2600 animais conservados no álcool, catalogando e acondicionando-os em recipientes separados por geração do experimento. Depois disso, foram alguns meses até aprendermos juntos a melhor forma de preparar e escanear os animais, respeitando as limitações de tamanho dos exemplares e tempo de uso do micro-tomografo do departamento. Tudo correu razoavelmente bem no começo, até que em junho de 2017, depois de cerca de 250 animais escaneados, o micro-tomografo quebrou, e ficou quebrado durante mais de seis meses. Durante esse tempo, Beatriz, eu, e Gabriel escrevemos um projeto de iniciação para a Beatriz, mas após duas tentativas não conseguimos financiamento FAPESP, por conta problemas no currículo da aluna no início da graduação, que não refletiam em absoluto a qualidade da pesquisadora que ela com certeza vai se tornar. Depois disso, a Beatriz cansou de esperar o micro-tomografo e uma bolsa e deixou o laboratório, mas não sem antes me ajudar a treinar a minha outra aluna de iniciação, a Amanda Magalhães, no processo de preparação e escaneamento dos camundongos. No inicio de 2018, o micro-tomografo finalmente voltou a operar e, com a universidade vazia nas férias, consegui escanear mais de 1500 animais em 2 meses, praticamente sozinho. Depois dessa empreitada, com a demanda de uso do micro-tomografo aumentando, reduzimos o ritmo de digitalização dos animais, e ao longo de 2018 eu e Amanda terminamos de escanear todos os animais das gerações F5, F6 e alguns dos fundadores, num total de mais de 2200 animais escaneados[^fn10]. 
+
+[^fn10]: Até onde consegui averiguar, a maior amostra de morfologia craniana já feita em uma única população. 
+
+Coloco esse relato nesta seção porque o trabalho com os crânios se tornou meu projeto de pós-doutorado, que tem como objetivo usar nossa colônia para investigar como a arquitetura genética se relaciona com o padrão de associações genéticas entre os traços do crânio. Isso permite integrar este trabalho com os outros resultados produzidos no LEM ao longo da última década, e explorar experimentalmente como essas associações se estabelecem e evoluem num fenótipo complexo que teve sua história macroevolutiva amplamente estudada. No momento, após 3 anos e meio da chegada dos animais ao Brasil, finalmente concluímos a coleta dos fenótipos cranianos de todos os animais escaneados e podemos começar a relaciona-los com os genótipos, afim de identificar os loci responsáveis pela covariação no crânio.
+
+O primeiro trabalho com o banco de dados dos crânios foi o projeto de iniciação da Amanda, que orientei durante o ano de 2019. Amanda investigou a ligação entre a taxa de crescimento máxima observada nos animais da F6 com a sua integração[^fn11] no crânio, duas variáveis que, quando medidas em diferentes espécies de mamíferos, aparecem positivamente correlacionadas numa escala macroevolutiva [@Porto2013-dc]. O projeto da Amanda se propôs verificar se essa associação era movida por uma ligação mecanística entre as duas variáveis, podendo, portanto, ser observada dentro de uma população com variação em taxas de crescimento. Nossa população era ideal para esse objetivo, tendo sido fundada por linhagens com diferenças grandes nas suas taxa de crescimento estabelecidas por seleção artificial, e portanto apresentando muita variação em crescimento na geração F6. Esta era uma das perguntas mais antigas que o Gabriel pretendia responder com nosso projeto maior. Surpreendentemente, a relação entre taxa de crescimento e a integração era inversa ao observado na comparação entre espécies, e animais com taxas de crescimento mais altas se mostraram menos integrados que animais com a taxa de crescimento mais baixa. Apesar de não confirmar nossa hipotese inicial, esse resultado mostra uma ligação entre essas duas variáveis que ainda pretendemos explorar mais, com o objetivo de entender qual a consequência dessa associação para a evolução de curto prazo da covariação craniana. A orientação da Amanda envolveu um longo estudo de estatística, e ao final ela foi capaz de entender e interpretar o modelo Bayesiano de análise que construímos juntos. Apesar de um problema bastante específico, as técnicas que nós utilizamos tem aplicação geral e podem ser usadas para analisar diversos tipos de dados experimentais.
+
+[^fn11]: Uma medida da intensidade média das associações entre um conjunto de traços fenotípicos.
+
+# Projetos em andamento
+
+Atualmente, tenho me dedicado a consolidar e fazer um controle de qualidade em todos os dados fenotípicos e genotípicos da colonia que construímos durante o meu projeto de doutorado. No momento sou o único pesquisador explorando esses dados ativamente, e, além das discussões com o Prof. Gabriel, eu mantenho contato com o Prof. Jason e os outros pesquisadores envolvidos no projeto inicial: Dr. Eleanor O'Brien, atualmente na Universidade de Bristol no Reino Unido, e o Prof. John Hunt, da Universidade de Exeter no Reino Unido. Esse banco de dados consolidado fornece um substrato rico para o estudo de arquitura genética, covariação e a interação com processos microevolutivos, e portanto viabiliza uma série de projetos com perguntas específicas.
+
+Além disso, tenho estabelecido uma colaboração independente com o laboratório do Prof. Julien Ayroles na Universidade de Princeton nos Estados Unidos. O Prof. Ayroles lidera um grupo de pesquisa em genética, utilizando, entre outros modelos, uma colônia grande e diversa de _Drosophila melanogaster_, com foco em investigar interações epistáticas entre genes. O grupo utiliza mapeamento genético, técnicas modernas de medição de fenótipos em larga escala, e outras técnicas de biologia de sistemas e genética quantitativa para entender a arquitetura genética por trás da variação em diversos tipos de fenótipos, tais como expressão gênica, morfologia, ou mesmo comportamentos. A colaboração com esse grupo me permite investigar aspectos da arquitura genética que exigem amostras maiores do que é viável com camundongos, como a influência da epistasia da covariação, interações entre fenótipo e ambiente, ou a covariação entre caracteres de dimensionalidade alta. Nesse grupo, eu contribuo com o foco em estudar não só a variação em cara traço independentemente, mas em fenótipos multivariados e seu padrão de covariação. Essa abordagem multivariada permite estudar dinâmicas genéticas e evolutivas mais complexas, e que revelam consequências que não podem ser acessadas investigando um traço de cada vez. 
+
+Esses bancos de dados e colaborações já estabelecidas, além da experiencia com trabalho computacional, tanto com simulações quanto análises customizadas, me permitem continuar desenvolvendo uma linha de pesquisa de ponta e original, que procura entender a relação entre arquitetura genética, covariação e evolução multivariada.
+
+# Ensino
+
+Durante minha trajetória acadêmica, sempre procurei dedicar tempo ao ensino, seja oferecendo disciplinas, cursos, _workshops_, ou contribuindo como monitor em disciplinas de graduação e pós-graduação. Entendo que um bom curso de graduação ou de pós-graduação deveria oferecer as ferramentas para que os alunos possam se tornar independentes para interpretar e analisar seus dados e experimentos. Para isso, é fundamental oferecer tanto disciplinas instrumentais quanto teóricas. Nesse contexto, apresento algumas propostas de contribuições que eu poderia fornecer ao departamento.
+
+## Teoria evolutiva
+
+Das disciplinas de graduação atualmente oferecidas pelo departamento, aquelas que envolvem ensino de evolução seriam as mais adequadas ao meu perfil, como Processos Evolutivos ou as disciplinas de Genética e Evolução. Como uma disciplina eletiva, eu ofereceria uma disciplina de Teoria Evolutiva, abordando de forma mais profunda os fundamento teóricos da biologia evolutiva, abordando tanto as formulações tradicionais em termos de frequências alélicas de Fisher e Wright, mas também as formulações modernas como o Teorema de Price ou a genética quantitativa multivariada e as aplicações destes formalismos, como melhoramento animal, mapeamento genético, e estudos evolutivos em populações naturais. Numa versão avançada para a pós-graduação, uma disciplina de teoria evolutiva poderia abordar também seleção multi-nível, modelos de manutenção da variação genética, e eventualmente até a formulação em equações diferenciais parciais da evolução de frequências alélicas iniciada por Kimura.
+
+Atualmente eu já ofereço uma disciplina pós graduação com a Dr. Monique Simon no Programa de Pós-Graduação em Biologia Comparada da FFCLRP-USP, em Ribeirão Preto, na qual nós apresentamos uma introdução a modularidade e teoria evolutiva, e ligamos esses formalismos com suas consequências práticas. A disciplina conta com aulas teóricas e práticas, e já foi oferecida duas vezes, em 2017 e 2019.
+
+## Estatística na era da computação
+
+Outra contribuição que eu poderia oferecer à pós-graduação é uma disciplina de análise de dados utilizando ferramentas computacionais modernas e modelos Bayesianos. Essa disciplina poderia ser planejada em conjunto com as disciplinas de programação em R e modelagem estatística do departamento de ecologia, fornecendo aos alunos de pós do IB um caminho completo para uma formação moderna e adaptável em métodos estatísticos. Uma vantagem de oferecer esse tipo de disciplina no Departamento de Genética e Biologia Evolutiva é poder enfatizar aplicações em genética, como mapeamento genético ou modelos evolutivos e demográficos, que ficam de fora dos cursos na ecologia.
+
+
+[BIB]
+
+~ TexRaw
+\newpage
+~
+
+# Curriculum vitae
+
+## Informações pessoais
+
+__Diogo Amaral Rebouças Melo__
+
+- Email: diogro@gmail.com
+- Google Scholar: [https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en](https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en)
+- ORCID: [0000-0002-7603-0092](https://orcid.org/0000-0002-7603-0092)
+- Research-ID: B-9282-2014
+
+## Posição atual
+
+`2019-atual`
+
+__Pós doutorando no Departamento de Genética e Biologia Evolutiva__
+
+- Instituto de Biociências, Universidade de São Paulo
+
+## Formação Acadêmica
+
+`2014-2019`
+
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+
+- Doutorado em Ciências com projeto "Estimativas diretas de parâmetros evolutivos via análise de QTL"
+- Universidade de São Paulo
+
+`2010-12`
+
+__Programa de Pós Graduação em Genética e Biologia Evolutiva__
+
+- Mestre em Ciências com projeto "Evolução Morfológica e Modularidade"
+- Universidade de São Paulo
+
+`2007-09`
+
+__Curso de Ciências Biológicas__
+
+- Bacharel com ênfase em Biologia Evolutiva
+- Universidade de São Paulo
+
+`2003-07`
+
+__Curso de Ciências Moleculares__
+
+- Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
+- Universidade de São Paulo
+
+## Financiamento
+
+`2019-atual`
+
+- Bolsa de Pós-doutorado pela FAPESP
+
+
+`2015-19`
+
+- Bolsa de Doutorado pela FAPESP
+
+
+`2013-14`
+
+- Bolsa de Treinamento Técnico pela FAPESP
+
+`2010-12`
+
+- Bolsa de Mestrado pela FAPESP
+
+
+`2005-07`
+
+- Bolsa de iniciação científica pelo CNPq
+
+## Publicações
+
+`2019`
+
+[Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution](https://academic.oup.com/jhered/article/110/4/479/5463195)
+
+- __Diogo Melo__, G. Marroig,  J. B. Wolf
+- __Journal Of Heredity__.  2019 110(4):479-493. doi:10.1093/jhered/esz011
+
+`2019`
+
+[Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size](https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13864)
+
+- Machado F., A. Hubbe, __Diogo Melo__, A. Porto, G. Marroig
+- __Evolution__. 2019, in press. doi:10.1111/evo.13864
+
+`2019`
+
+[Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels](https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881)
+
+- Fukimoto N., __Diogo Melo__, R. Palme, A. J. Zanella, O. Mendonça-Furtado
+- __Applied Animal Behaviour Science__. 2019, in press. doi:10.1016/j.applanim.2019.104919
+
+
+`2017` 
+
+[The evolution of phenotypic integration: How directional selection reshapes covariation in mice](http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract)
+
+- Penna A.&#42;, __Diogo Melo__&#42;, S. Bernardi, M. I. Oyarzabal, G. Marroig
+- __Evolution__, 2017 71(10):2370–2380. doi:10.1111/evo.13304
+- &#42; co-primeiro autores
+
+
+` 2017` 
+
+[Insights from Systems Biology in Physiological Studies: Learning from Context](https://www.karger.com/Article/FullText/478648)
+
+- Imenez Silva P. H., __Diogo Melo__, P. O. R. de Mendonça 
+- __Cell Physiology and Biochemestry__, 2017 42(3):939-951. doi:10.1159/000478648
+
+`2016`
+
+[Modularity: Genes, Development, and Evolution](http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409)
+
+- __Diogo Melo&#42;__, A. Porto&#42;, J. M. Cheverud, G. Marroig 
+- __Annual Review of Ecology, Evolution, and Systematics__, 2016 47:463-486 
+- &#42; co-primeiro autores
+
+`2016`
+
+[Costly learning: preference for familiar food persists despite negative impact on survival](http://rsbl.royalsocietypublishing.org/content/12/7/20160256)
+
+- Costa T. M., E. A. Hebets, __Diogo Melo__, R. H. Willemart
+- __Biology Letters__, 2016 20160256. doi:10.1098/rsbl.2016.0256
+
+
+`2016`
+
+[A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology](http://www.bioone.org/doi/abs/10.1017/pab.2015.49)
+
+- Hubbe A., __Diogo Melo__, G. Marroig
+- __Paleobiology__, 2016 42(3):465-488 doi:10.1017/pab.2015.49
+
+
+`2015`
+
+[EvolQG - An R package for evolutionary quantitative genetics](http://f1000research.com/articles/4-925/v1)
+
+- __Diogo Melo__, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig
+- __F1000 Research__, 2015 4:925 doi:10.12688/f1000research.7082.3
+
+`2015`
+
+[Fitness Trade-offs Result in the Illusion of Social Success](http://www.cell.com/current-biology/abstract/S0960-9822(15)00263-8)
+
+- Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, __Diogo Melo__, D. Rozen, C. R. L. Thompson
+- __Current Biology__, 2015 25(8):1086–1090 doi:10.1016/j.cub.2015.02.061
+
+`2015`
+
+[Directional Selection can Drive the Evolution of Modularity in Complex Traits](http://www.pnas.org/content/112/2/470.abstract)
+
+- __Diogo Melo__, G. Marroig
+- __PNAS__, 2015 112(2):470-475 doi:10.1073/pnas.1322632112
+
+`2012`
+
+[Modularity, noise, and natural selection](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract)
+
+- Marroig G., __Diogo Melo__, G. Garcia
+- __Evolution__, 2012 66(5):1506–1524 doi:10.1111/j.1558-5646.2011.01555.x
+
+`2011`
+
+[Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices](http://link.springer.com/article/10.1007%2Fs11692-010-9107-2)
+
+- Marroig G., __Diogo Melo__, A. Porto, G. Garcia e H. Sebastião
+- __Evolutionary Biology__, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
+
+## Capítulos de livro
+
+`2019`
+
+[How does modularity in the genotype-phenotype map interact with development and evolution?](https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11)
+
+- __Diogo Melo__
+- In: __Old Questions and Young Approaches to Animal Evolution__. Martín-Durán J., Vellutini B. (eds)
+- Fascinating Life Sciences. Springer, Cham. doi:10.1007/978-3-030-18202-1_11
+
+`2016`
+
+[Modularity and Integration](http://www.sciencedirect.com/science/article/pii/B9780128000496000445)
+
+- Assis A. P., B. Costa, D. Rossoni, __Diogo Melo__, G. Marroig
+- __Encyclopedia of Evolutionary Biology__, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+
+
+## Posters e congressos
+
+`2018`
+
+**II Joint Congress on Evolutionary Biology 2018, Montpellier, France**
+
+- __Diogo Melo__, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
+-  Genetic architecture and the evolution of variational modularity
+-  Poster
+
+
+`2016`
+
+__5th meeting of the European Society for Evolutionary Developmental Biology (EED), Uppsala, Suécia__
+
+- __Diogo Melo__, Gabriel Marroig
+- The Evolution of Pleiotropy and Modularity
+- Palestrante convidado
+
+
+`2015`
+
+**Evolution 2015, Guarujá, Brazil**
+
+- **Diogo Melo**, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+- Changes in multivariate covariance structures under directional selection
+- Apresentação oral
+
+`2015`
+
+**Evolution 2015, Guarujá, Brazil**
+
+- **Diogo Melo**, Gabriel Marroig
+- The Effect of Directional Selection on Pleiotropy and Modularity
+- Poster
+
+`2009`
+
+__10th International Mammalogical Congress__, Mendoza, Argentina
+
+- Participante
+
+`2007`
+
+**V Brazilian Meeting on Simulational Physics**, Ouro Preto, Brazil
+
+- **Diogo Melo**, Vera Henriques
+- Order-disorder phase transitions on dissociating model lipid membranes
+- Poster
+
+## Formação Complementar
+
+`2018`
+
+__The Search For Selection__
+
+- Knoxville, Tennessee
+- Prof. Bruce Walsh
+- NIMBioS, University of Tennessee 
+
+`2015`
+
+__Introduction to Network Tools in Biosciences - 2nd Edition__
+
+- Els Hostalets de Pierola, Spain
+- Transmiting Science
+
+`2008`
+
+__Complex Systems Summer School__
+
+- San Carlos de Bariloche, Argentina
+- Santa Fe Institute
+
+
+`2008`
+
+__Curso em Embriologia de Mamíferos__
+
+- ICB, USP
+
+
+`2007`
+
+__Course in Neurobiology__
+
+- UNESP, Rio Claro
+- Prof. Michael Hendrick, Prof. Tobias Wang
+
+
+`2006`
+
+__Summer School on Soft Matter Physics__
+
+- IF, USP
+ 
+## Monitorias
+
+`2015`
+
+__Curso de Campo Ecologia da Mata Atlântica__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+- Departamento de Ecologia
+
+`2015`
+
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2014`
+
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2015`
+
+__IV Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2012-16`
+
+__Uso da linguagem R para análise de dados ecológicos__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
+- Departamento de Ecologia
+
+`2014`
+
+__Modelagem Estatística para Ecologia e Recursos Naturais__, IB, USP
+
+- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e João Luís Ferreira Batista
+- Departamento de Ecologia, IB - USP e Depto. de Ciências Florestais, Esalq - USP
+
+`2014`
+
+__III Southern-Summer School on Mathematical Biology__, ICTP, Unesp
+
+- Curso para pós-graduação em matemática aplicada à biologia
+- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+
+`2011, 2014`
+
+__Processos Evolutivos__, IB, USP
+
+- Curso para graduação em biologia dos Profs. Diogo Meyer,  Gabriel Marroig e Paulo Otto
+- Programa de aperfeiçoamento de ensino (PAE)
+- Departamento de Genética e Biologia Evolutiva
+
+`2009, 2012-13`
+
+__Biologia Evolutiva__, IB, USP
+
+- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+- Departamento de Genética e Biologia Evolutiva
+
+`2007-09`
+
+__Fisiologia de Membranas__, ICB, USP
+
+- Curso para graduação em Medicina do Prof. Antônio Cassola
+- Departamento de Fisiologia e Biofísica
+
+
+##Cursos Ministrados
+
+`2020`
+
+__Escrita Científica__
+
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia (Genética)
+- Departamento de Genética e Biologia Evolutiva, IB-USP
+- Carga horária de 120h
+
+`2020`
+
+__Minicurso de Biologia Evolutiva__
+
+- Curso ministrado no 1º Curso de Férias em Genética e Evolução
+- Departamento de Genética e Biologia Evolutiva, IB-USP
+- Carga horária de 6h
+
+
+`2017, 2019`
+
+__Modularidade: conectando padrões e processos em evolução multivariada__
+
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
+- Carga horária de 30h
+
+`2012`
+
+__Introdução a manipulação de dados com a linguagem R__
+
+- Curso na semana temática do instituto oceanográfico da USP
+- Carga horária de 12h
+
+<!-- # Comprovantes
+
+
+~ Figure { #fig-diploma_doc; caption: "Diploma Doutorado" }
+![](documentos/diploma_doutorado.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-diploma_mest; caption: "Diploma Mestrado" }
+![](documentos/diploma_mest.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-diploma_bio; caption: "Diploma Biologia" }
+![](documentos/diploma_bio.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-diploma_ccm; caption: "Diploma CCM" }
+![](documentos/diploma_ccm_a4.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-ratones; caption: "Artigo" }
+![](artigos/ratones.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-Xenarthra; caption: "Artigo" }
+![](artigos/Xenarthra.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-SRD; caption: "Artigo" }
+![](artigos/SRD.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-Noise; caption: "Artigo" }
+![](artigos/Noise.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-Modularity_Genes; caption: "Artigo" }
+![](artigos/Modularity_Genes.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-Integration; caption: "Artigo" }
+![](artigos/Integration.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-qtls; caption: "Artigo" }
+![](artigos/Genomic_Perspective.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-evolqg; caption: "Artigo" }
+![](artigos/evolqg.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-dicty; caption: "Artigo" }
+![](artigos/Fitness_Trade-offs.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-DirectionalSelection; caption: "Artigo" }
+![](artigos/DirectionalSelection.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-sysbio; caption: "Artigo" }
+![](artigos/Insights_from_Systems_Biology.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-cap_mod; caption: "Capitulo de Livro" }
+![](artigos/Modularity_and_Integration.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-cap_oqya; caption: "Capitulo de Livro" }
+![](artigos/OQYAAE.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-Costly; caption: "Artigo" }
+![](artigos/Costly.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-cats; caption: "Artigo" }
+![](artigos/Cats.png){ width:6in; vertical-align:middle }
+~
+
+
+~ Figure { #fig-io; caption: "Certificado de curso ministrado" }
+![](certificados/c15.png){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-BE; caption: "Certificado de curso ministrado" }
+![](certificados/Certificado_Diogo_Melo_BE.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-evol2015L; caption: "Certificado de apresentação em Congresso" }
+![](certificados/certificate-evolution2015-lightningTalk.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-evol2015P; caption: "Certificado de apresentação em Congresso" }
+![](certificados/certificate-evolution2015-poster.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-evol2018; caption: "Certificado de apresentação em Congresso" }
+![](certificados/EvolutionMontpellier.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-sims; caption: "Certificado de apresentação em Congresso" }
+![](certificados/Scan-140107-0009.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-eco; caption: "Certificado de apresentação em ciclo de seminário" }
+![](certificados/EcoEncontros2015.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-embrio; caption: "Certificado de curso de extensão" }
+![](certificados/Scan-140107-0008.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-neuro; caption: "Certificado de curso de extensão" }
+![](certificados/Scan-140107-0010.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-nets; caption: "Certificado de curso de extensão" }
+![](certificados/transmiting_science_2015.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-sfi; caption: "Certificado de curso de extensão" }
+![](certificados/SFI.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-sfi; caption: "Certificado de curso de extensão" }
+![](certificados/NIMBioS.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-pae; caption: "Certificado de monitoria PAE" }
+![](certificados/Scan-140107-0011.pdf){ width:6in; vertical-align:middle }
+~
+
+~ Figure { #fig-sssmb; caption: "Certificado de monitoria em curso de extensão" }
+![](certificados/SSSMB.pdf){ width:6in; vertical-align:middle }
+~
+ -->
