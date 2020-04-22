@@ -19,7 +19,7 @@ email         : Universidade de São Paulo
 
 
 Author        : Diogo Melo
-email         : diogro@usp.br
+email         : diogro@gmail.com
 
 Heading depth : 0
 Logo          : False
@@ -179,7 +179,7 @@ Atualmente, tenho me dedicado a consolidar e fazer um controle de qualidade em t
 
 No momento sou o único pesquisador explorando esses dados ativamente e, além das discussões com o Prof. Gabriel, mantenho contato com o Prof. Jason e os outros pesquisadores envolvidos no projeto inicial: Dra. Eleanor O'Brien, atualmente na Universidade de Bristol no Reino Unido, e o Prof. John Hunt, da Universidade de Exeter no Reino Unido. Esse banco de dados consolidado fornece um substrato rico para o estudo de arquitetura genética, covariação e a interação com processos microevolutivos, e portanto viabiliza uma série de projetos com perguntas específicas.
 
-Além disso, estabeleci uma colaboração independente com o laboratório do Prof. Julien Ayroles na Universidade de Princeton nos Estados Unidos. O Prof. Ayroles lidera um grupo de pesquisa em genética, utilizando, entre outros modelos, uma colônia grande e diversa de _Drosophila melanogaster_, com foco em investigar interações epistáticas entre genes. O grupo utiliza mapeamento genético, técnicas modernas de medição de fenótipos em larga escala e outras técnicas de biologia de sistemas e genética quantitativa para entender a arquitetura genética por trás da variação em diversos tipos de fenótipos, tais como expressão gênica, morfologia, ou mesmo comportamentos. A colaboração com esse grupo me permite investigar aspectos da arquitetura genética que exigem amostras maiores do que seria viável com camundongos, como a influência da epistasia na covariação, interações entre fenótipo e ambiente, ou a covariação entre caracteres de dimensionalidade alta. Nesse grupo, eu tenho contribuído trazendo uma visão não só da variação em cada traço independentemente, mas em fenótipos multivariados e seu padrão de covariação. Essa abordagem multivariada permite estudar dinâmicas genéticas e evolutivas mais complexas, que revelam consequências que não podem ser acessadas investigando um traço de cada vez. Como resultado dessa colaboração, no final de 2019 decidimos submeter uma proposta para uma bolsa de pós-doutorado em Princeton, a _Princeton Presidential Fellowship_, para que eu pudesse me juntar ao seu grupo. Essa bolsa foi aprovada em fevereiro deste ano. Assim, em julho de 2020 passarei a integrar o grupo do Prof. Ayroles. 
+Além disso, estabeleci uma colaboração independente com o laboratório do Prof. Julien Ayroles na Universidade de Princeton nos Estados Unidos. O Prof. Ayroles lidera um grupo de pesquisa em genética, utilizando, entre outros modelos, uma colônia grande e diversa de _Drosophila melanogaster_, com foco em investigar interações epistáticas entre genes. O grupo utiliza mapeamento genético, técnicas modernas de medição de fenótipos em larga escala e outras técnicas de biologia de sistemas e genética quantitativa para entender a arquitetura genética por trás da variação em diversos tipos de fenótipos, tais como expressão gênica, morfologia, ou mesmo comportamentos. A colaboração com esse grupo me permite investigar aspectos da arquitetura genética que exigem amostras maiores do que seria viável com camundongos, como a influência da epistasia na covariação, interações entre fenótipo e ambiente, ou a covariação entre caracteres de dimensionalidade alta. Nesse grupo, eu tenho contribuído trazendo uma visão não só da variação em cada traço independentemente, mas em fenótipos multivariados e seu padrão de covariação. Essa abordagem multivariada permite estudar dinâmicas genéticas e evolutivas mais complexas, que revelam consequências que não podem ser acessadas investigando um traço de cada vez. Como resultado dessa colaboração, no final de 2019 decidimos submeter uma proposta para uma bolsa de pós-doutorado em Princeton, a _Princeton Presidential Postdoctoral Research Fellowship_, para que eu pudesse me juntar ao seu grupo. Essa bolsa foi aprovada em fevereiro deste ano. Assim, em julho de 2020 passarei a integrar o grupo do Prof. Ayroles. 
 
 A construção desses conjuntos de dados e as colaborações já estabelecidas, além da experiência computacional, tanto com simulações quanto análises customizadas, me permitem continuar desenvolvendo uma linha de pesquisa de ponta e original, que procura entender a relação entre arquitetura genética, covariação e evolução multivariada. Essa linha de pesquisa se encaixa bem na estrutura geral do Departamento de Genética e Biologia Evolutiva, contribuindo com uma visão teórica que liga os processos genéticos com os processos evolutivos e que pode ser instrumental para as outras linhas de pesquisa em evolução. Além disso, os métodos estatísticos que uso e desenvolvo são relevantes para a genética humana, especialmente as técnicas modernas de mapeamento genético aplicados à elucidação da arquitetura genética de caracteres complexos. Essas contribuições teóricas e metodológicas se dariam não apenas por meio de colaborações com os outros docentes do departamento mas também oferecendo disciplinas que irão treinar os alunos em teoria evolutiva ou nos métodos estatísticos, conforme descrito abaixo. 
 
@@ -211,7 +211,6 @@ Outra contribuição que eu poderia oferecer na graduação ou na pós-graduaç�
 
 [BIB]
 
-<!--
 
 ~ TexRaw
 \newpage
@@ -832,5 +831,3 @@ __Fisiologia de Membranas__, ICB, USP
 ~ Figure { #fig-pae; caption: "Certificado de monitoria PAE" }
 ![](certificados/Scan-140107-0011.pdf){ width:6in; vertical-align:middle }
 ~ 
-
--->
