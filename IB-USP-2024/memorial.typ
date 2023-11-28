@@ -23,12 +23,16 @@
 #set text(
   font: "Skolar PE TEST",
   size: 11pt,
+  lang: "por",
+  region: "br"
 )
 
 #set page(
   paper: "a4",
-  header: align(right)[
-   Memorial - Diogo Melo
+  header:[
+    #set text(9pt, font: "Skolar PE TEST")
+    Memorial
+    #h(1fr) Diogo Melo
   ],
   numbering: "1",
 )
@@ -53,11 +57,9 @@
   *Apresentação*
 ])
 
-Apresento este memorial atendendo ao Edital NUMERONOVO publicado pela reitoria da Universidade de São Paulo no Diário Oficial da União de  de  de 2023, referente ao concurso para o cargo de professor doutor na área de “Genética e Evolução”, em Regime de RDIDP, junto ao Departamento de Botânica do Instituto de Biociências da Universidade de São Paulo.
+Apresento este memorial atendendo ao Edital 038-2023 publicado pela reitoria da Universidade de São Paulo no Diário Oficial da União de 10 de Outubro de 2023, referente ao concurso para o cargo de professor doutor na área de “Biologia de Sistemas – Biologia Integrativa e Preditiva”, em Regime de RDIDP, junto ao Departamento de Botânica do Instituto de Biociências da Universidade de São Paulo.
 
-
-No que se segue apresento minha trajetória acadêmica, incluindo experiência didática e de pesquisa. Destaco alguns projetos em que trabalhei, e 
-como cada parte da minha trajetória contribuiu para minha formação como pesquisador. Ao final, apresento meu currículo completo e comprovantes para os títulos, cursos, apresentações em congressos e publicações descritas no texto.
+No que se segue apresento minha trajetória acadêmica, incluindo experiência didática e de pesquisa. Destaco alguns projetos em que trabalhei, e como cada parte da minha trajetória contribuiu para minha formação como pesquisador. Ao final, apresento meu currículo completo e comprovantes para os títulos, cursos, apresentações em congressos, e publicações descritas no texto.
 
 #pagebreak()
 
@@ -65,8 +67,13 @@ como cada parte da minha trajetória contribuiu para minha formação como pesqu
 #set par(
   leading: 1em,
   first-line-indent: 1em,
-  justify: true,
+  justify: true
 )
+#show heading: it => {
+  block[#it.body]
+  v(0.3em)
+}
+
 
 = Graduação
 
@@ -89,7 +96,7 @@ O trabalho no Instituto de Física também me colocou em contato com outro grupo
 Tendo me formado no ciências moleculares e encerrado meu projeto de iniciação com a Profa. Vera Henriques, percebi que, apesar do meu interesse pelos métodos utilizados na física, eu me sentia mais atraído pelos problemas levantados pela biologia. Por isso, decidi retornar à graduação em biologia e aplicar as técnicas que havia aprendido na física a problemas com motivações mais biológicas. De volta ao curso de biologia, conversei com alguns professores do Instituto de Biociências, e optei por me juntar ao grupo do Laboratório de Evolução de Mamíferos (LEM) do Prof. Gabriel Marroig. Lembro que quando conversamos pela primeira vez, por intermédio de alguns bons amigos que estudavam em seu laboratório, o Gabriel me disse que o laboratório estava muito cheio e que seria difícil eu entrar naquele momento. Porém, ao descobrir que eu estava vindo da física e que sabia programar, imediatamente falou para marcarmos uma conversa. Foi uma sorte, pois nesse momento teve início uma colaboração extremamente frutífera e bem sucedida. 
 
 Durante minha iniciação científica no LEM, trabalhei com métodos computacionais para produzir estimativas de matrizes de covariância mais resistentes a problemas de amostragem, e que pudessem ser usadas para reconstruir a história evolutiva de fenótipos complexos de forma mais acurada #footnote[Esse pequeno resumo do meu primeiro trabalho ilustra como a minha caminhada para problemas mais biológicos foi na verdade bastante gradual. Foi difícil convencer minha banca de iniciação científica que esse projeto era, de fato, biologia.
-]. Este projeto resultou no primeiro artigo em que eu participei ativamente na pesquisa, escrita e publicação #cite(<Marroig2012-jd>, form: "prose"). Foi um processo editorial bastante longo até a publicação #footnote[Foi neste trabalho que aprendi a não colocar datas em nomes de arquivos de manuscritos. Tive que mudar duas vezes o ano no nome do arquivo.]. Após uma rejeição acompanhada de boas revisões numa revista prestigiosa, fizemos uma segunda versão bastante modificada e expandida, que foi aceita, incluindo uma parte adicional feita pelo Dr. Guilherme Garcia, que era um aluno de mestrado na época. Foi meu primeiro projeto com o Guilherme, e mais tarde nós viríamos a trabalhar juntos em outros métodos computacionais aplicados à evolução. Em retrospecto, eu sabia bem menos estatística naquela época do que acreditava, e certamente teria escrito outro manuscrito hoje, mas os métodos e conclusões continuam relevantes e robustos. 
+]. Este projeto resultou no primeiro artigo em que eu participei ativamente na pesquisa, escrita e publicação @Marroig2012-jd. Foi um processo editorial bastante longo até a publicação #footnote[Foi neste trabalho que aprendi a não colocar datas em nomes de arquivos de manuscritos. Tive que mudar duas vezes o ano no nome do arquivo.]. Após uma rejeição acompanhada de boas revisões numa revista prestigiosa, fizemos uma segunda versão bastante modificada e expandida, que foi aceita, incluindo uma parte adicional feita pelo Dr. Guilherme Garcia, que era um aluno de mestrado na época. Foi meu primeiro projeto com o Guilherme, e mais tarde nós viríamos a trabalhar juntos em outros métodos computacionais aplicados à evolução. Em retrospecto, eu sabia bem menos estatística naquela época do que acreditava, e certamente teria escrito outro manuscrito hoje, mas os métodos e conclusões continuam relevantes e robustos.
 
 = Mestrado
 
@@ -118,7 +125,7 @@ Logo no início do doutorado, em 2014, visitei o laboratório do Prof. Jason por
 
 Eu ainda voltaria para a Universidade de Bath uma segunda vez, durante 5 meses em 2016, agora a tempo de participar dos estágios finais da colônia de camundongos. Desta vez participei ativamente da coleta de dados de composição corporal dos animais de F6, além de me tornar o principal responsável por desenhar o microarranjo que depois foi usado para aferir os genótipos de todos os animais das gerações F5 e F6. Foi meu primeiro contato com dados genômicos e ferramentas de bioinformática e novamente um momento de grande aprendizado. Durante essa segunda visita, eu e Jason nos dedicamos ao desenvolvimento de métodos voltados para a análise da arquitetura genética de caracteres complexos, no mesmo estilo dos que seriam necessários quando tivéssemos acesso aos dados do nosso experimento. Para isso, nós utilizamos um banco de dados antigo, do laboratório do Prof. James Cheverud, que tinha uma estrutura parecida com os dados que viriam do nosso experimento. Com esses dados, exploramos novas técnicas de mapeamento genético desenhadas para aferir o padrão de efeitos genéticos em vários caracteres simultaneamente e relacioná-los com a história evolutiva da população estudada. Mais uma vez, meu conhecimento de estatística Bayesiana foi fundamental e eu desenhei toda a estratégia de análise, contando com a ajuda preciosa do Prof. Jason. Este trabalho resultou num manuscrito que se tornou um dos capítulos da minha tese, e foi publicado em #cite(<Melo2019-le>, form: "prose").
 
-Além dessas visitas a Bath, enquanto estive no Brasil, distante do experimento com os camundongos, procurei me envolver com projetos em colaboração com os outros membros do LEM. Durante o ano de 2015, comecei um projeto com uma aluna de mestrado do LEM, Anna Penna, Msc., que hoje é doutoranda na Universidade do Texas em San Antonio. Nesse período, Anna estava envolvida em um projeto grande de mestrado e tinha um conjunto de dados coletados durante a iniciação que não haviam sido explorados com cuidado. Eram dados de morfologia craniana de cinco populações experimentais de camundongos derivadas da mesma população ancestral, sendo duas populações selecionadas para aumento de peso, duas selecionadas para diminuição de peso, e uma controle. Trabalhando junto com a Anna, eu percebi que esse conjunto seria ideal para o estudo da evolução da covariação craniana sob seleção direcional, novamente um modelo experimental que se relacionava com minhas simulações feitas durante o mestrado. Num trabalho a quatro mãos, eu e Anna analisamos estes dados sob a perspectiva da covariação fenotípica, e encontramos um claro padrão de mudança na organização da variação das linhagens selecionadas, compatível com as previsões do meu trabalho de mestrado. Este trabalho também é um dos capítulos da minha tese e foi publicado em, #cite(<Penna2017-if>, form: "prose"), sendo que eu e Anna aparecemos como co-primeiro autores.
+Além dessas visitas a Bath, enquanto estive no Brasil, distante do experimento com os camundongos, procurei me envolver com projetos em colaboração com os outros membros do LEM. Durante o ano de 2015, comecei um projeto com uma aluna de mestrado do LEM, Anna Penna, que hoje é doutora pela Universidade do Texas em San Antonio. Nesse período, Anna estava envolvida em um projeto grande de mestrado e tinha um conjunto de dados coletados durante a iniciação que não haviam sido explorados com cuidado. Eram dados de morfologia craniana de cinco populações experimentais de camundongos derivadas da mesma população ancestral, sendo duas populações selecionadas para aumento de peso, duas selecionadas para diminuição de peso, e uma controle. Trabalhando junto com a Anna, eu percebi que esse conjunto seria ideal para o estudo da evolução da covariação craniana sob seleção direcional, novamente um modelo experimental que se relacionava com minhas simulações feitas durante o mestrado. Num trabalho a quatro mãos, eu e Anna analisamos estes dados sob a perspectiva da covariação fenotípica, e encontramos um claro padrão de mudança na organização da variação das linhagens selecionadas, compatível com as previsões do meu trabalho de mestrado. Este trabalho também é um dos capítulos da minha tese e foi publicado em, #cite(<Penna2017-if>, form: "prose"), sendo que eu e Anna aparecemos como co-primeiro autores.
 
 Além da colaboração com a Anna, em 2015 eu também tive o privilégio, junto com o Prof. Gabriel, Prof. James Cheverud e um ex-aluno de doutorado do LEM, o Dr. Arthur Porto, de escrever uma revisão para um dos periódicos da _Annual Reviews_. O Gabriel havia sido convidado para escrever um artigo sobre modularidade e convidou nós três para participar. O Prof. Cheverud ficou responsável pela elaboração de uma introdução histórica ao conceito de modularidade, enquanto eu e Arthur lideramos a elaboração da maior parte do manuscrito e da produção de figuras, e o Gabriel contribuiu propondo ideias importantes ligadas às consequências macroevolutivas da teoria que nós revisamos no manuscrito. Eu, Arthur e Gabriel escrevemos a primeira versão do manuscrito em pouco mais de um mês de trabalho intenso mas extremamente gratificante. Conseguimos apresentar um resumo didático da aplicação da teoria de modularidade em diversos níveis de organização biológica e, usando ideias do Gabriel, propor um papel maior para a modularidade e covariação genética na diversificação macroevolutiva. Este trabalho foi mais um dos capítulos da minha tese #cite(<Melo2016-yw>, form: "prose").
 
@@ -163,7 +170,14 @@ No curso de campo, levamos 20 alunos de mestrado para uma reserva ecológica em 
 
 Contribuí também com as disciplinas da Genética, atuando como monitor da disciplina de Biologia Evolutiva ao longo de vários anos, tendo escrito junto com a Dra. Monique Simon uma apostila para a disciplina#footnote[#link("https://github.com/lem-usp/apostila-bio-evol/blob/master/apostila-Bio312.pdf?raw=true").]. Mais recentemente eu também produzi todo o material de aula prática em R#footnote[#link("https://diogro.github.io/BioEvol/").] para a Biologia Evolutiva. Também fui monitor PAE da disciplina de Processos Evolutivos duas vezes ao longo da minha pós-graduação.
 
-Atualmente, ofereço uma disciplina de pós-graduação com a Dra. Monique no Programa de Pós-Graduação em Biologia Comparada da FFCLRP-USP, em Ribeirão Preto, na qual nós apresentamos uma introdução à modularidade e teoria evolutiva e ligamos esses formalismos com suas consequências práticas. A disciplina conta com aulas teóricas e práticas e já foi oferecida duas vezes, em 2017 e 2019. Também estou envolvido, junto com vários pós-doutorandos de todos os departamentos do IB, numa disciplina prática de escrita científica. Apesar de ser uma das atividades mais frequentes e importantes da carreira científica, temos muito pouco treino objetivo de escrita durante a pós-graduação. Isso é uma pena, já que a escrita é a principal ferramenta de disseminação do conhecimento produzido em nossos laboratórios. Percebendo isso, eu dediquei um tempo considerável de estudo a melhorar minha escrita em inglês, focando principalmente na escrita de artigos e projetos. Nossa disciplina apresenta aos alunos maneiras de pensar a escrita científica e oferece métodos para que eles possam elaborar textos claros e cativantes.
+Durante o pór-doutorado na USP, ofereci uma disciplina de pós-graduação com a Dra. Monique no Programa de Pós-Graduação em Biologia Comparada da FFCLRP-USP, em Ribeirão Preto, na qual nós apresentamos uma introdução à modularidade e teoria evolutiva e ligamos esses formalismos com suas consequências práticas. A disciplina conta com aulas teóricas e práticas e já foi oferecida duas vezes, em 2017 e 2019. Também estive envolvido, junto com vários pós-doutorandos de todos os departamentos do IB, numa disciplina prática de escrita científica. Apesar de ser uma das atividades mais frequentes e importantes da carreira científica, temos muito pouco treino objetivo de escrita durante a pós-graduação. Isso é uma pena, já que a escrita é a principal ferramenta de disseminação do conhecimento produzido em nossos laboratórios. Percebendo isso, eu dediquei um tempo considerável de estudo a melhorar minha escrita em inglês, focando principalmente na escrita de artigos e projetos. Nossa disciplina apresenta aos alunos maneiras de pensar a escrita científica e oferece métodos para que eles possam elaborar textos claros e cativantes.
+
+Curso estatística serrapilheira.
+
+Cursos em princeton:
+  - Human genome
+  - Epidemiologia
+  - Computação para Biologos
 
 Com base nessas experiências didáticas, entendo que um bom curso de graduação ou de pós-graduação deveria oferecer as ferramentas para que os alunos possam se tornar capazes de idealizar, analisar e interpretar seus dados e experimentos de forma independente. Para isso, é fundamental oferecer tanto disciplinas instrumentais quanto teóricas. Nesse contexto, apresento  algumas propostas de contribuições que eu poderia fornecer ao departamento, buscando proporcionar aos alunos do IB e da USP a melhor formação possível, voltada para o pensamento crítico, independência e rigor científico.
 
@@ -184,6 +198,12 @@ Desde o mestrado, tive uma participação constante como representante discente 
 
 Participar da Congregação acabou sendo muito informativo, e pude ver de perto como a universidade funcionava e como os professores navegavam a política universitária. Foi nesse momento que eu percebi que a administração universitária tem consequências concretas para os alunos, professores e para as atividades fim da universidade. No meu primeiro mandato como RD na Congregação, pude acompanhar de perto a importância da representação discente como mecanismo de interlocução entre estudantes, docentes e as instâncias administrativas. Por exemplo, me lembro de um caso em que dois alunos tinham demandas essencialmente idênticas (uma extensão de prazo de algum tipo), mas um dos alunos contatou os RDs e explicou o motivo de seu pedido, enquanto o outro apenas enviou os requerimentos necessários. O primeiro teve a sua demanda atendida, o segundo não. A percepção da importância dessa atividade fez com que, depois dessa primeira experiência, eu continuasse atuando como RD em diversas comissões ao longo de toda a pós-graduação. No mestrado, além da Congregação participei também como RD na Comissão de Pós-Graduação. Já no doutorado, participei novamente da Congregação e da Comissão de Pós-Graduação, depois fui eleito para a Comissão de Pesquisa por dois mandatos, e finalmente, representei os alunos da genética na Comissão Coordenadora de Programa (CCP) do Programa de Pós-Graduação em Ciências Biológicas (Biologia Genética) por 2 mandatos, ficando como representante até o último mês do meu doutorado. Durante essa trajetória nas comissões, começando na Congregação e descendo a hierarquia de comissões que regem a pós-graduação até a CCP, procurei adotar uma participação construtiva e propositiva que contribuísse para a formação dos alunos, atuando como uma ponte entre seus interesses e necessidades e a realidade do instituto.
 
-#show: rest => columns(1, rest)
+#set par(
+  leading: 0.65em,
+  first-line-indent: 0em,
+  justify: false
+)
 
-#bibliography("memorial.bib", style: "annual-reviews-author-date", title: "Referências")
+#bibliography("memorial.bib", 
+              style: "annual-reviews-author-date", 
+              title: "Referências")
