@@ -292,7 +292,7 @@
 - Documento @fig-campo[]
 
 
-*Processos Evolutivos*, IB, USP (2014)
+*Processos Evolutivos*, IB, USP (2011)
 
 - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
 - Programa de aperfeiçoamento de ensino (PAE) (*Doc.* @fig-pae[])
