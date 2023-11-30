@@ -189,85 +189,156 @@
   supplement: [Documento],
 ) <fig-SRD>
 
-  #figure(
-    image("../artigos/OQYAAE.png",width: 6in),
-    caption: [Capitulo de Livro: #cite(<Melo2019-wz>, form: "full").],
-    supplement: [Documento],
-  ) <fig-cap_oqya>
+#figure(
+  image("../artigos/OQYAAE.png",width: 6in),
+  caption: [Capitulo de Livro: #cite(<Melo2019-wz>, form: "full").],
+  supplement: [Documento],
+) <fig-cap_oqya>
 
-    #figure(
-    image("../artigos/Modularity_and_Integration.png",width: 6in),
-    caption: [Capitulo de Livro: #cite(<Assis2016-wr>, form: "full").],
-    supplement: [Documento],
-  ) <fig-cap_mod>
+#figure(
+  image("../artigos/Modularity_and_Integration.png",width: 6in),
+  caption: [Capitulo de Livro: #cite(<Assis2016-wr>, form: "full").],
+  supplement: [Documento],
+) <fig-cap_mod>
 
-// ~ Figure { #fig-evol2018; caption: "Certificado de apresentação em Congresso" }
-// ![](certificados/EvolutionMontpellier.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/SMBE2023.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-smbe2023>
 
-// ~ Figure { #fig-evodevo; caption: "Certificado de apresentação em Congresso" }
-// ![](certificados/EED2016.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/GRC2023.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-GRC2023>
 
-// ~ Figure { #fig-evol2015L; caption: "Certificado de apresentação em Congresso" }
-// ![](certificados/certificate-evolution2015-lightningTalk.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/EvolutionMontpellier.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-evol2018>
 
-// ~ Figure { #fig-evol2015P; caption: "Certificado de apresentação em Congresso" }
-// ![](certificados/certificate-evolution2015-poster.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/EED2016.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-evodevo>
 
-// ~ Figure { #fig-sims; caption: "Certificado de apresentação em Congresso" }
-// ![](certificados/Scan-140107-0009.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/certificate-evolution2015-lightningTalk.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-evol2015L>
 
-// ~ Figure { #fig-nimbios; caption: "Certificado de curso de extensão" }
-// ![](certificados/NIMBioS.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/certificate-evolution2015-poster.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-evol2015P>
 
-// ~ Figure { #fig-nets; caption: "Certificado de curso de extensão" }
-// ![](certificados/transmiting_science_2015.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/Scan-140107-0009.png",width: 6in),
+  caption: [Certificado de apresentação em Congresso.],
+  supplement: [Documento],
+) <fig-sims>
 
-// ~ Figure { #fig-sfi; caption: "Certificado de curso de extensão" }
-// ![](certificados/SFI.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/NIMBioS.png",width: 6in),
+  caption: [Certificado de curso de extensão.],
+  supplement: [Documento],
+) <fig-nimbios>
 
-// ~ Figure { #fig-embrio; caption: "Certificado de curso de extensão" }
-// ![](certificados/Scan-140107-0008.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/transmiting_science_2015.png",width: 6in),
+  caption: [Certificado de curso de extensão.],
+  supplement: [Documento],
+) <fig-nets>
 
-// ~ Figure { #fig-neuro; caption: "Certificado de curso de extensão" }
-// ![](certificados/Scan-140107-0010.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/SFI.png",width: 6in),
+  caption: [Certificado de curso de extensão.],
+  supplement: [Documento],
+) <fig-sfi>
 
-// ~ Figure { #fig-BE; caption: "Certificado de curso ministrado" }
-// ![](certificados/Certificado_Diogo_Melo_BE.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/Scan-140107-0008.png",width: 6in),
+  caption: [Certificado de curso de extensão.],
+  supplement: [Documento],
+) <fig-embrio>
 
-// ~ Figure { #fig-mcmc; caption: "Certificado de curso ministrado" }
-// ![](certificados/Chamada_workshop_2017.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/Scan-140107-0010.png",width: 6in),
+  caption: [Certificado de curso de extensão.],
+  supplement: [Documento],
+) <fig-neuro> 
 
-// ~ Figure { #fig-io; caption: "Certificado de curso ministrado" }
-// ![](certificados/c15.png){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/EEB330.png",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-EEB330>
 
-// ~ Figure { #fig-R; caption: "Certificado de monitoria" }
-// ![](certificados/certificados_R.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/Certificado_Diogo_Melo_BE.png",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-BE>
 
-// ~ Figure { #fig-sssmb; caption: "Certificado de monitoria em curso de extensão" }
-// ![](certificados/SSSMB.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/Chamada_workshop_2017.png",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-mcmc>
 
-// ~ Figure { #fig-campo; caption: "Certificado de monitoria em disciplina de pós-graduação" }
-// ![](certificados/curso_de_campo.pdf){ width:6in; vertical-align:middle }
-// ~
+#figure(
+  image("../certificados/c15.png",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-io>
 
-// ~ Figure { #fig-pae; caption: "Certificado de monitoria PAE" }
-// ![](certificados/Scan-140107-0011.pdf){ width:6in; vertical-align:middle }
-// ~ 
+// #figure(
+//   image("../certificados/genomics.png",width: 6in),
+//   caption: [Certificado de monitoria.],
+//   supplement: [Documento],
+// ) <fig-genomics>
+
+// #figure( 
+//   image("../certificados/epidemio.png",width: 6in),
+//   caption: [Certificado de monitoria.],
+//   supplement: [Documento],
+// ) <fig-epidemio>
+
+// #figure(
+//   image("../certificados/bioevol.png",width: 6in),
+//   caption: [Certificado de monitoria.],
+//   supplement: [Documento],
+// ) <fig-bioevol>
+
+
+#figure(
+  image("../certificados/certificados_R.png",width: 6in),
+  caption: [Certificado de monitoria.],
+  supplement: [Documento],
+) <fig-R>
+
+#figure(
+  image("../certificados/SSSMB.png",width: 6in),
+  caption: [Certificado de monitoria em curso de extensão.],
+  supplement: [Documento],
+) <fig-SSSMB>
+
+#figure(
+  image("../certificados/curso_de_campo.png",width: 6in),
+  caption: [Certificado de monitoria em disciplina de pós-graduação.],
+  supplement: [Documento],
+) <fig-campo>
+
+#figure(
+  image("../certificados//Scan-140107-0011.png",width: 6in),
+  caption: [Certificado de monitoria PAE em disciplina de graduação.],
+  supplement: [Documento],
+) <fig-pae>
 
 #show bibliography: none
 #bibliography("memorial.bib", 
