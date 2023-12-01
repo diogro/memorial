@@ -1,4 +1,31 @@
-= Curriculum vitae 
+
+#set text(
+  font: "Skolar PE TEST",
+  size: 10pt,
+  lang: "por",
+  region: "br"
+)
+
+#set page(
+  paper: "a4",
+  header:[
+    #set text(9pt, font: "Skolar PE TEST")
+    Curriculum vitae
+    #h(1fr) Diogo Melo
+  ],
+  numbering: "1",
+)
+
+#show par: set block(spacing: 1em)
+#set par(
+  leading: 1em,
+  first-line-indent: 1em,
+  justify: true 
+)
+#show heading: it => {
+  block[#it.body]
+  v(0.3em)
+}
 
 == Informações pessoais 
 
@@ -12,47 +39,48 @@
 == Pós-doutorado
 
 2020-atual - *Pós doutorando no Departamento de Ecologia e Evolução* 
-  - Financiado pela _Princeton Presidential Postdoctoral Research Fellows Program_ (*Doc.* @fig-princeton[])
+  - Financiado pela _Princeton Presidential Postdoctoral Research Fellows Program_
   - Universidade de Princeton, NJ, EUA
+  - Documento @fig-princeton[]
 
 2019-2020 - *Pós doutorando no Departamento de Genética e Biologia Evolutiva*
-  - Financiado por uma Bolsa FAPESP de pós-doutorado (*Doc.* @fig-outorga_postdoc[])
+  - Financiado por uma Bolsa FAPESP de pós-doutorado 
   - Instituto de Biociências, Universidade de São Paulo
+  - Documento @fig-outorga_postdoc[]
 
 == Formação Acadêmica 
 
 2014-2019 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
-  - Documento @fig-diploma_doc[]
   - Orientador: Gabriel Marroig
   - Doutorado em Ciências com a tese "Evolução da covariação genética em caracteres complexos: interação entre o mapa genótipo-fenótipo e seleção natural"
-  - Financiado por uma Bolsa FAPESP de doutorado (*Doc.* @fig-outorga_doc[])
+  - Financiado por uma Bolsa FAPESP de doutorado
   - Universidade de São Paulo
+  - Documentos @fig-diploma_doc[] e @fig-outorga_doc[]
 
 2014, 2016 - *Aluno de Doutorado visitante na Universidade de Bath*
-
-  - Documento @fig-bath_letter[]
   - Supervisor: Dr. Jason Wolf
-  - Financiado por uma Bolsa BEPE-FAPESP de doutorado (2016) (*Doc.* @fig-outorga_BEPE[])
+  - Financiado por uma Bolsa BEPE-FAPESP de doutorado (2016)
   - Financiado pelo programa _Future Research Leaders Incubator Scheme_ (2016) e _Global Research Scholarship Scheme_ (2014) da Universidade de Bath
   - Universidade de Bath, Somerset, Reino Unido
+  - Documentos @fig-bath_letter[] e @fig-outorga_BEPE[]
+
 
 2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
-
-  - Documento @fig-diploma_mest[]
   - Orientador: Gabriel Marroig
   - Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
-  - Financiado por uma Bolsa FAPESP de mestrado (*Doc.* @fig-outorga_mest[])
+  - Financiado por uma Bolsa FAPESP de mestrado (Documento )
   - Universidade de São Paulo
+  - Documentos @fig-diploma_mest[] e @fig-outorga_mest[]
 
 2007-09 - *Curso de Ciências Biológicas*
-  - Documento @fig-diploma_bio[]
   - Bacharel com ênfase em Biologia Evolutiva
   - Universidade de São Paulo
+  - Documento @fig-diploma_bio[]
 
 2003-07 - *Curso de Ciências Moleculares*
-  - Documento @fig-diploma_ccm[]
   - Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
   - Universidade de São Paulo
+  - Documento @fig-diploma_ccm[]
 
 == Publicações em pré-print
 
@@ -220,6 +248,7 @@
 2. *Statistical models: linking data to theory* (2023)
   - Curso de extensão no Programa de Formação em Ecologia Quantitativa
   - Instituto Serrapilheira
+  // - @fig-serrapilheira[]
 
 3. *Escrita Científica* (2020, 2021)
   - Disciplina ministrada no Programa de Pós-Graduação em Ciências Biologias (Zoologia)
@@ -232,11 +261,11 @@
   - Carga horária de 6h 
   - Documento @fig-BE[]
 
-// 5. *Modularidade: conectando padrões e processos em evolução multivariada* (2017, 2019)
+5. *Modularidade: conectando padrões e processos em evolução multivariada* (2019)
 
-// - Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
-// - Carga horária de 30h
-// - Documento @fig-modularidade[]
+  - Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
+  - Carga horária de 30h
+  - Documento @fig-modularidade[]
 
 6. *MCMC: passo a passo*, IB, USP (2017)
   - Workshop sobre o método de _Markov Chain Monte Carlo_ (MCMC).
@@ -284,8 +313,9 @@
 
 7. *Processos Evolutivos*, IB, USP (2011)
   - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
-  - Programa de aperfeiçoamento de ensino (PAE) (*Doc.* @fig-pae[])
+  - Programa de aperfeiçoamento de ensino (PAE)
   - Departamento de Genética e Biologia Evolutiva
+  - Documento @fig-pae[]
 
 #pagebreak()
 #include "certificados.typ"

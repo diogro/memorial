@@ -1,43 +1,9 @@
 
 #align(left + top, text(20pt, font: "Droid Sans", weight: "bold")[
-  *Anexo*
-])
-
-#align(left + top, text(20pt, font: "Droid Sans", weight: "bold")[
-  *Documentos comprobatorios*
+*Anexo - Documentos comprobatorios*
 ])
 
 #pagebreak()
-#figure(
-  image("../documentos/diploma_doc.svg",width: 6in),
-  caption: [Diploma de Doutorado.],
-  supplement: [Documento],
-) <fig-diploma_doc>
-
-#figure(
-  image("../documentos/diploma_mest.svg",width: 6in),
-  caption: [Diploma de Mestrado.],
-  supplement: [Documento],
-) <fig-diploma_mest>
-
-#figure(
-  image("../documentos/diploma_bio.svg",width: 6in),
-  caption: [Diploma de Curso de Ciências Biológicas.],
-  supplement: [Documento],
-) <fig-diploma_bio>
-
-#figure(
-  image("../documentos/diploma_ccm_a4.svg",width: 6in),
-  caption: [Diploma de Curso de Ciências Moleculares.],
-  supplement: [Documento],
-) <fig-diploma_ccm>
-
-
-#figure(
-  image("../certificados/report_bath.svg",width: 6in),
-  caption: [Certificado de Estágio no Exterior.],
-  supplement: [Documento],
-) <fig-bath_letter>
 
 #figure(
   image("../bolsas/princeton.svg",width: 6in),
@@ -52,16 +18,53 @@
 ) <fig-outorga_postdoc>
 
 #figure(
+  image("../documentos/diploma_doc.svg",width: 6in),
+  caption: [Diploma de Doutorado.],
+  supplement: [Documento],
+) <fig-diploma_doc>
+
+
+#figure(
   image("../bolsas/outorga_doc.svg",width: 6in),
   caption: [Termo de outorga da bolsa de Doutorado.],
   supplement: [Documento],
 ) <fig-outorga_doc>
 
 #figure(
+  image("../certificados/report_bath.svg",width: 6in),
+  caption: [Certificado de Estágio no Exterior.],
+  supplement: [Documento],
+) <fig-bath_letter>
+
+#figure(
   image("../bolsas/outorga_BEPE.svg",width: 6in),
   caption: [Termo de outorga da bolsa de estagio no exterior.],
   supplement: [Documento],
 ) <fig-outorga_BEPE>
+
+#figure(
+  image("../documentos/diploma_mest.svg",width: 6in),
+  caption: [Diploma de Mestrado.],
+  supplement: [Documento],
+) <fig-diploma_mest>
+
+#figure(
+  image("../bolsas/outorga_mest.svg",width: 6in),
+  caption: [Termo de outorga da bolsa de Mestrado.],
+  supplement: [Documento],
+) <fig-outorga_mest>
+
+#figure(
+  image("../documentos/diploma_bio.svg",width: 6in),
+  caption: [Diploma de Curso de Ciências Biológicas.],
+  supplement: [Documento],
+) <fig-diploma_bio>
+
+#figure(
+  image("../documentos/diploma_ccm_a4.svg",width: 6in),
+  caption: [Diploma de Curso de Ciências Moleculares.],
+  supplement: [Documento],
+) <fig-diploma_ccm>
 
 #figure(
   image("../bolsas/outorga_TT4.svg",width: 6in),
@@ -74,12 +77,6 @@
   caption: [Termo de outorga da bolsa de treinamento técnico nível 3.],
   supplement: [Documento],
 ) <fig-outorga_TT3>
-
-#figure(
-  image("../bolsas/outorga_mest.svg",width: 6in),
-  caption: [Termo de outorga da bolsa de Mestrado.],
-  supplement: [Documento],
-) <fig-outorga_mest>
 
 #figure(
   image("../artigos/SBM.png",width: 6in),
@@ -279,6 +276,12 @@
   supplement: [Documento],
 ) <fig-EEB330>
 
+// #figure(
+//   image("../certificados/serrapilheira.svg",width: 6in),
+//   caption: [Certificado de curso ministrado.],
+//   supplement: [Documento],
+// ) <fig-serrapilheira>
+
 #figure(
   image("../certificados/escrita_cientifica.svg",width: 6in),
   caption: [Certificado de curso ministrado.],
@@ -292,11 +295,11 @@
   supplement: [Documento],
 ) <fig-BE>
 
-// #figure(
-//   image("../certificados/modularidade.svg",width: 6in),
-//   caption: [Certificado de curso ministrado.],
-//   supplement: [Documento],
-// ) <fig-modularidade>
+#figure(
+  image("../certificados/modularidade.svg",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-modularidade>
 
 #figure(
   image("../certificados/Chamada_workshop_2017.svg",width: 6in),
