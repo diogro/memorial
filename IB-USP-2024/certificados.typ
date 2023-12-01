@@ -1,6 +1,13 @@
+#set page(
+  header:[
+    #set text(9pt, font: "Skolar PE TEST", weight: "regular")
+    Anexos
+    #h(1fr) Diogo Melo
+  ]
+)
 
-#align(left + top, text(20pt, font: "Droid Sans", weight: "bold")[
-*Anexo - Documentos comprobatorios*
+#align(left + top, text(20pt, font: "Droid Sans")[
+  *Anexo - Documentos comprobatorios*
 ])
 
 #pagebreak()
@@ -80,19 +87,19 @@
 
 #figure(
   image("../artigos/SBM.png",width: 6in),
-  caption: [Artigo: #cite(<Melo2023-ij>, form: "full").],
+  caption: [Artigo _pre-print_: #cite(<Melo2023-ij>, form: "full").],
   supplement: [Documento],
 ) <fig-SBM>
 
 #figure(
   image("../artigos/eQTL.png",width: 6in),
-  caption: [Artigo: #cite(<Pallares2023-eh>, form: "full").],
+  caption: [Artigo _pre-print_: #cite(<Pallares2023-eh>, form: "full").],
   supplement: [Documento],
 ) <fig-eQTL>
 
 #figure(
   image("../artigos/Focal.png",width: 6in),
-  caption: [Artigo: #cite(<Wolf2023-bb>, form: "full").],
+  caption: [Artigo _pre-print_: #cite(<Wolf2023-bb>, form: "full").],
   supplement: [Documento],
 ) <fig-FocalSNP>
 

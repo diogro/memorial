@@ -154,7 +154,7 @@
   Hubbe A., *Diogo Melo*, G. Marroig. _Paleobiology_, 2016 42(3):465-488 doi:10.1017/pab.2015.49
   - Documento @fig-Xenarthra[] 
 
-11. _EvolQG - An R package for evolutionary quantitative genetics_ #link("http://f1000research.com/articles/4-925/v3")[(#underline[link])] (2015) 
+11. _EvolQG - An R package for evolutionary quantitative genetics_ #link("http://f1000research.com/articles/4-925/v3")[(#underline[link])] (2015)
 
   *Diogo Melo*, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig._F1000 Research_, 2015 4:925 doi:10.12688/f1000research.7082.3
   - Documento @fig-evolqg[]
@@ -351,4 +351,5 @@
   - Documento @fig-pae[]
 
 #pagebreak()
+
 #include "certificados.typ"
