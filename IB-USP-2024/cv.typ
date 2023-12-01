@@ -30,29 +30,29 @@
 
 2014, 2016 - *Aluno de Doutorado visitante na Universidade de Bath*
 
-- Documento @fig-bath_letter[]
-- Supervisor: Dr. Jason Wolf
-- Financiado por uma Bolsa BEPE-FAPESP de doutorado (2016) (*Doc.* @fig-outorga_BEPE[])
-- Financiado pelo programa _Future Research Leaders Incubator Scheme_ (2016) e _Global Research Scholarship Scheme_ (2014) da Universidade de Bath
-- Universidade de Bath, Somerset, Reino Unido
+  - Documento @fig-bath_letter[]
+  - Supervisor: Dr. Jason Wolf
+  - Financiado por uma Bolsa BEPE-FAPESP de doutorado (2016) (*Doc.* @fig-outorga_BEPE[])
+  - Financiado pelo programa _Future Research Leaders Incubator Scheme_ (2016) e _Global Research Scholarship Scheme_ (2014) da Universidade de Bath
+  - Universidade de Bath, Somerset, Reino Unido
 
 2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
 
-- Documento @fig-diploma_mest[]
-- Orientador: Gabriel Marroig
-- Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
-- Financiado por uma Bolsa FAPESP de mestrado (*Doc.* @fig-outorga_mest[])
-- Universidade de São Paulo
+  - Documento @fig-diploma_mest[]
+  - Orientador: Gabriel Marroig
+  - Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
+  - Financiado por uma Bolsa FAPESP de mestrado (*Doc.* @fig-outorga_mest[])
+  - Universidade de São Paulo
 
 2007-09 - *Curso de Ciências Biológicas*
-- Documento @fig-diploma_bio[]
-- Bacharel com ênfase em Biologia Evolutiva
-- Universidade de São Paulo
+  - Documento @fig-diploma_bio[]
+  - Bacharel com ênfase em Biologia Evolutiva
+  - Universidade de São Paulo
 
 2003-07 - *Curso de Ciências Moleculares*
-- Documento @fig-diploma_ccm[]
-- Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
-- Universidade de São Paulo
+  - Documento @fig-diploma_ccm[]
+  - Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
+  - Universidade de São Paulo
 
 == Publicações em pré-print
 
@@ -144,160 +144,148 @@
 
 3. *II Joint Congress on Evolutionary Biology*, Montpellier, France (2018)
 
-- *Diogo Melo*, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
--  Genetic architecture and the evolution of variational modularity
--  Poster
--  Documento @fig-evol2018[]
+  - *Diogo Melo*, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
+  -  Genetic architecture and the evolution of variational modularity
+  -  Poster
+  -  Documento @fig-evol2018[]
 
 4. *5th meeting of the European Society for Evolutionary Developmental Biology (EED)*, Uppsala, Suécia (2016)
 
-- *Diogo Melo*, Gabriel Marroig
-- The Evolution of Pleiotropy and Modularity
-- Palestrante convidado
-- Documento @fig-evodevo[]
+  - *Diogo Melo*, Gabriel Marroig
+  - The Evolution of Pleiotropy and Modularity
+  - Palestrante convidado
+  - Documento @fig-evodevo[]
 
-5.A *Evolution Meeting*, Guarujá, Brazil (2015)
+5. A *Evolution Meeting*, Guarujá, Brazil (2015)
 
-- *Diogo Melo*, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
-- Changes in multivariate covariance structures under directional selection
-- Apresentação oral
-- Documento @fig-evol2015L[]
+  - *Diogo Melo*, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
+  - Changes in multivariate covariance structures under directional selection
+  - Apresentação oral
+  - Documento @fig-evol2015L[]
 
-5.B *Evolution Meeting*, Guarujá, Brazil (2015)
+5. B *Evolution Meeting*, Guarujá, Brazil (2015)
 
-- *Diogo Melo*, Gabriel Marroig
-- The Effect of Directional Selection on Pleiotropy and Modularity
-- Poster
-- Documento @fig-evol2015P[]
+  - *Diogo Melo*, Gabriel Marroig
+  - The Effect of Directional Selection on Pleiotropy and Modularity
+  - Poster
+  - Documento @fig-evol2015P[]
 
 6. *V Brazilian Meeting on Simulational Physics*, Ouro Preto, Brazil (2017)
-- *Diogo Melo*, Vera Henriques
-- Order-disorder phase transitions on dissociating model lipid membranes
-- Poster
-- Documento @fig-sims[]
+  - *Diogo Melo*, Vera Henriques
+  - Order-disorder phase transitions on dissociating model lipid membranes
+  - Poster
+  - Documento @fig-sims[]
 
 == Formação Complementar  
 
 1. *The Search For Selection* (2018)
 
-- Knoxville, Tennessee
-- Prof. Bruce Walsh
-- NIMBioS, University of Tennessee 
-- Documento @fig-nimbios[]
+  - Knoxville, Tennessee
+  - Prof. Bruce Walsh
+  - NIMBioS, University of Tennessee 
+  - Documento @fig-nimbios[]
 
 2. *Introduction to Network Tools in Biosciences - 2nd Edition* (2015)
 
-- Els Hostalets de Pierola, Spain
-- Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
-- Transmiting Science
-- Documento @fig-nets[]
+  - Els Hostalets de Pierola, Spain
+  - Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
+  - Transmiting Science
+  - Documento @fig-nets[]
 
 3. *Complex Systems Summer School* (2008)
 
-- San Carlos de Bariloche, Argentina
-- Santa Fe Institute
-- Documento @fig-sfi[]
+  - San Carlos de Bariloche, Argentina
+  - Santa Fe Institute
+  - Documento @fig-sfi[]
 
 4. *Curso em Embriologia de Mamíferos* (2008)
 
-- ICB, USP
-- Documento @fig-embrio[]
+  - ICB, USP
+  - Documento @fig-embrio[]
 
 5. *Course in Neurobiology* (2007)
 
-- UNESP, Rio Claro
-- Prof. Michael Hendrick, Prof. Tobias Wang
-- Documento @fig-neuro[]
+  - UNESP, Rio Claro
+  - Prof. Michael Hendrick, Prof. Tobias Wang
+  - Documento @fig-neuro[]
 
 == Cursos Ministrados 
 
-*Programação para Biologia* (2023)
-- Disciplina para graduação na Universidade de Princeton
-- Departamento de Ecologia e Biologia Evolutiva
-- Carga horária de 50h
-- Documentos @fig-EEB330[] e @fig-genomics[]
+1. *Programação para Biologia* (2023)
+  - Disciplina para graduação na Universidade de Princeton
+  - Departamento de Ecologia e Biologia Evolutiva
+  - Carga horária de 50h
+  - Documentos @fig-EEB330[] e @fig-genomics[]
 
-*Statistical models: linking data to theory* (2023)
+2. *Statistical models: linking data to theory* (2023)
+  - Curso de extensão no Programa de Formação em Ecologia Quantitativa
+  - Instituto Serrapilheira
 
-- Curso de extensão no Programa de Formação em Ecologia Quantitativa
-- Instituto Serrapilheira
+3. *Escrita Científica* (2020, 2021)
+  - Disciplina ministrada no Programa de Pós-Graduação em Ciências Biologias (Zoologia)
+  - Carga horária de 120h
+  - Documento @fig-escrita[]
 
-*Escrita Científica* (2020, 2021)
+4. *Minicurso de Biologia Evolutiva* (2020)
+  - Curso ministrado no 1º Curso de Férias em Genética e Evolução
+  - Departamento de Genética e Biologia Evolutiva, IB-USP
+  - Carga horária de 6h 
+  - Documento @fig-BE[]
 
-- Disciplina ministrada no Programa de Pós-Graduação em Ciências Biologias (Zoologia)
-- Carga horária de 120h
-- Documento @fig-escrita[]
-
-*Minicurso de Biologia Evolutiva* (2020)
-
-- Curso ministrado no 1º Curso de Férias em Genética e Evolução
-- Departamento de Genética e Biologia Evolutiva, IB-USP
-- Carga horária de 6h 
-- Documento @fig-BE[]
-
-// *Modularidade: conectando padrões e processos em evolução multivariada* (2017, 2019)
+// 5. *Modularidade: conectando padrões e processos em evolução multivariada* (2017, 2019)
 
 // - Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
 // - Carga horária de 30h
 // - Documento @fig-modularidade[]
 
-*MCMC: passo a passo*, IB, USP (2017)
+6. *MCMC: passo a passo*, IB, USP (2017)
+  - Workshop sobre o método de _Markov Chain Monte Carlo_ (MCMC).
+  - Carga horária de 20h
+  - Documento @fig-mcmc[]
 
-- Workshop sobre o método de _Markov Chain Monte Carlo_ (MCMC).
-- Carga horária de 20h
-- Documento @fig-mcmc[]
-
-*Introdução a manipulação de dados com a linguagem R* (2012)
-
-- Curso na semana temática do instituto oceanográfico da USP
-- Carga horária de 12h
-- Documento @fig-io[]
+7. *Introdução a manipulação de dados com a linguagem R* (2012)
+  - Curso na semana temática do instituto oceanográfico da USP
+  - Carga horária de 12h
+  - Documento @fig-io[]
 
 == Monitorias 
 
-*Epidemiology: An Ecological and Evolutionary Perspective* (2022)
+1. *Epidemiology: An Ecological and Evolutionary Perspective* (2022)
+  - Curso para graduação na Universidade de Princeton
+  - Profs. Benjamin Rice, Jessica Metcalf
+  - Documento @fig-genomics[]
 
-- Curso para graduação na Universidade de Princeton
-- Profs. Benjamin Rice, Jessica Metcalf
-- Documento @fig-genomics[]
+2. *Human Genomics: The Past, Present, and Future of the Human Genome* (2021)
+  - Curso para graduação na Universidade de Princeton
+  - Profs. Monah Singh, Sarah Kocher, Julien Ayroles
+  - Documento @fig-genomics[]
 
-*Human Genomics: The Past, Present, and Future of the Human Genome* (2021)
+3. *Biologia Evolutiva*, IB, USP (2012, 2013, 2019)
+  - Curso para graduação em biologia dos Profs. Gabriel Marroig e Diogo Meyer
+  - Departamento de Genética e Biologia Evolutiva
+  - Documento @fig-bioevol[]
 
-- Curso para graduação na Universidade de Princeton
-- Profs. Monah Singh, Sarah Kocher, Julien Ayroles
-- Documento @fig-genomics[]
+4. *Uso da linguagem R para análise de dados ecológicos*, IB, USP (2012-14)
+  - Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
+  - Departamento de Ecologia
+  - Documento @fig-R[]
 
-*Biologia Evolutiva*, IB, USP (2012, 2013, 2019)
+5. *Southern-Summer School on Mathematical Biology*, ICTP, Unesp (2014, 2015, 2016)
+  - Curso para pós-graduação em matemática aplicada à biologia
+  - Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
+  - International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
+  - Documento @fig-SSSMB[]
 
-- Curso para graduação em biologia do Prof. Gabriel Marroig
-- Departamento de Genética e Biologia Evolutiva
-- Documento @fig-bioevol[]
-
-*Uso da linguagem R para análise de dados ecológicos*, IB, USP (2012-14)
-
-- Curso para pós-graduação em ecologia dos Profs. Paulo Inácio Prado e Alexandre Adalardo
-- Departamento de Ecologia
-- Documento @fig-R[]
-
-*Southern-Summer School on Mathematical Biology*, ICTP, Unesp (2014, 2015, 2016)
-
-- Curso para pós-graduação em matemática aplicada à biologia
-- Organização M. Clerc (Santiago), R. Kraenkel (São Paulo), P.I. Prado (São Paulo)
-- International Center for Theoretical Physics e Instituto de Física Teórica da Unesp
-- Documento @fig-SSSMB[]
-
-*Curso de Campo Ecologia da Mata Atlântica*, IB, USP (2015)
-
-- Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
-- Departamento de Ecologia
-- Documento @fig-campo[]
+6. *Curso de Campo Ecologia da Mata Atlântica*, IB, USP (2015)
+  - Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
+  - Departamento de Ecologia
+  - Documento @fig-campo[]
 
 
-*Processos Evolutivos*, IB, USP (2011)
-
-- Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
-- Programa de aperfeiçoamento de ensino (PAE) (*Doc.* @fig-pae[])
-- Departamento de Genética e Biologia Evolutiva
+7. *Processos Evolutivos*, IB, USP (2011)
+  - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
+  - Programa de aperfeiçoamento de ensino (PAE) (*Doc.* @fig-pae[])
+  - Departamento de Genética e Biologia Evolutiva
 
 #pagebreak()
 #include "certificados.typ"
