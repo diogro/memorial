@@ -100,103 +100,103 @@
 ) <fig-FocalSNP>
 
 #figure(
-  image("../artigos/expvar.png",width: 6in),
+  image("../artigos/expvar.svg",width: 6in),
   caption: [Artigo: #cite(<Wolf2023-zw>, form: "full").],
   supplement: [Documento],
 ) <fig-exp_var>
 
 #figure(
-  image("../artigos/Ontogeny.png",width: 6in),
+  image("../artigos/Ontogeny.svg",width: 6in),
   caption: [Artigo: #cite(<Hubbe2022-xb>, form: "full").],
   supplement: [Documento],
 ) <fig-ontogenia>
 
 #figure(
-  image("../artigos/Cats.png",width: 6in),
+  image("../artigos/Cats.svg",width: 6in),
   caption: [Artigo: #cite(<Fukimoto2020-oy>, form: "full").],
   supplement: [Documento],
 ) <fig-cats>
 
 #figure(
-  image("../artigos/Integration.png",width: 6in),
+  image("../artigos/Integration.svg",width: 6in),
   caption: [Artigo: #cite(<Machado2019-af>, form: "full").],
   supplement: [Documento],
 ) <fig-Integration>
 
 #figure(
-  image("../artigos/Genomic_Perspective.png",width: 6in),
+  image("../artigos/Genomic_Perspective.svg",width: 6in),
   caption: [Artigo: #cite(<Melo2019-le>, form: "full").],
   supplement: [Documento],
 ) <fig-qtls>
 
 #figure(
-  image("../artigos/ratones.png",width: 6in),
+  image("../artigos/ratones.svg",width: 6in),
   caption: [Artigo: #cite(<Penna2017-if>, form: "full").],
   supplement: [Documento],
 ) <fig-ratones>
 
 #figure(
-  image("../artigos/Insights_from_Systems_Biology.png",width: 6in),
+  image("../artigos/Insights_from_Systems_Biology.svg",width: 6in),
   caption: [Artigo: #cite(<Imenez_Silva2017-ic>, form: "full").],
   supplement: [Documento],
 ) <fig-sysbio>
 
 #figure(
-  image("../artigos/Modularity_Genes.png",width: 6in),
+  image("../artigos/Modularity_Genes.svg",width: 6in),
   caption: [Artigo: #cite(<Melo2016-yw>, form: "full").],
   supplement: [Documento],
 ) <fig-Modularity_Genes>
 
 #figure(
-  image("../artigos/Costly.png",width: 6in),
+  image("../artigos/Costly.svg",width: 6in),
   caption: [Artigo: #cite(<Costa2016-mv>, form: "full").],
   supplement: [Documento],
 ) <fig-Costly>
 
 #figure(
-  image("../artigos/Xenarthra.png",width: 6in),
+  image("../artigos/Xenarthra.svg",width: 6in),
   caption: [Artigo: #cite(<Hubbe2016-za>, form: "full").],
   supplement: [Documento],
 ) <fig-Xenarthra>
 
 #figure(
-  image("../artigos/evolqg.png",width: 6in),
+  image("../artigos/evolqg.svg",width: 6in),
   caption: [Artigo: #cite(<Melo2015-kf>, form: "full").],
   supplement: [Documento],
 ) <fig-evolqg>
 
 #figure(
-  image("../artigos/Fitness_Trade-offs.png",width: 6in),
+  image("../artigos/Fitness_Trade-offs.svg",width: 6in),
   caption: [Artigo: #cite(<Wolf2015-es>, form: "full").],
   supplement: [Documento],
 ) <fig-dicty>
 
 #figure(
-  image("../artigos/DirectionalSelection.png",width: 6in),
+  image("../artigos/DirectionalSelection.svg",width: 6in),
   caption: [Artigo: #cite(<Melo2015-bk>, form: "full").],
   supplement: [Documento],
 ) <fig-DirectionalSelection>
 
 #figure(
-  image("../artigos/Noise.png",width: 6in),
+  image("../artigos/Noise.svg",width: 6in),
   caption: [Artigo: #cite(<Marroig2012-jd>, form: "full").],
   supplement: [Documento],
 ) <fig-Noise>
 
 #figure(
-  image("../artigos/SRD.png",width: 6in),
+  image("../artigos/SRD.svg",width: 6in),
   caption: [Artigo: #cite(<Marroig2011-mg>, form: "full").],
   supplement: [Documento],
 ) <fig-SRD>
 
 #figure(
-  image("../artigos/OQYAAE.png",width: 6in),
+  image("../artigos/OQYAAE.svg",width: 6in),
   caption: [Capitulo de Livro: #cite(<Melo2019-wz>, form: "full").],
   supplement: [Documento],
 ) <fig-cap_oqya>
 
 #figure(
-  image("../artigos/Modularity_and_Integration.png",width: 6in),
+  image("../artigos/Modularity_and_Integration.svg",width: 6in),
   caption: [Capitulo de Livro: #cite(<Assis2016-wr>, form: "full").],
   supplement: [Documento],
 ) <fig-cap_mod>
@@ -280,6 +280,13 @@
 ) <fig-EEB330>
 
 #figure(
+  image("../certificados/escrita_cientifica.svg",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-escrita>
+
+
+#figure(
   image("../certificados/Certificado_Diogo_Melo_BE.svg",width: 6in),
   caption: [Certificado de curso ministrado.],
   supplement: [Documento],
@@ -297,24 +304,17 @@
   supplement: [Documento],
 ) <fig-io>
 
-// #figure(
-//   image("../certificados/genomics.svg",width: 6in),
-//   caption: [Certificado de monitoria.],
-//   supplement: [Documento],
-// ) <fig-genomics>
+#figure(
+  image("../certificados/teaching_princeton.svg",width: 6in),
+  caption: [Certificado de monitoria e de curso ministrado.],
+  supplement: [Documento],
+) <fig-genomics>
 
-// #figure( 
-//   image("../certificados/epidemio.svg",width: 6in),
-//   caption: [Certificado de monitoria.],
-//   supplement: [Documento],
-// ) <fig-epidemio>
-
-// #figure(
-//   image("../certificados/bioevol.svg",width: 6in),
-//   caption: [Certificado de monitoria.],
-//   supplement: [Documento],
-// ) <fig-bioevol>
-
+#figure(
+  image("../certificados/bioevol.svg",width: 6in),
+  caption: [Certificado de monitoria.],
+  supplement: [Documento],
+) <fig-bioevol>
 
 #figure(
   image("../certificados/certificados_R.svg",width: 6in),
@@ -342,5 +342,5 @@
 
 #show bibliography: none
 #bibliography("memorial.bib", 
-              style: "elsevier-harvard", 
+              style: "apa", 
               title: "Referências") 

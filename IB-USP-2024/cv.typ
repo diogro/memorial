@@ -216,18 +216,19 @@
 - Disciplina para graduação na Universidade de Princeton
 - Departamento de Ecologia e Biologia Evolutiva
 - Carga horária de 50h
-- Documento @fig-EEB330[]
+- Documentos @fig-EEB330[] e @fig-genomics[]
 
 *Statistical models: linking data to theory* (2023)
 
 - Curso de extensão no Programa de Formação em Ecologia Quantitativa
 - Instituto Serrapilheira
 
-// *Escrita Científica* (2020)
+*Escrita Científica* (2020, 2021)
 
-// - Disciplina ministrada no Programa de Pós-Graduação em Biologia (Genética)
-// - Departamento de Genética e Biologia Evolutiva, IB-USP
-// - Carga horária de 120h
+- Disciplina ministrada no Programa de Pós-Graduação em Biologia (Genética)
+- Departamento de Genética e Biologia Evolutiva, IB-USP
+- Carga horária de 120h
+- Documento @fig-escrita[]
 
 *Minicurso de Biologia Evolutiva* (2020)
 
@@ -255,22 +256,23 @@
 
 == Monitorias 
 
-// *Epidemiology: An Ecological and Evolutionary Perspective* (2022)
+*Epidemiology: An Ecological and Evolutionary Perspective* (2022)
 
-// - Curso para graduação na Universidade de Princeton
-// - Profs. Benjamin Rice, Jessica Metcalf
-// - Documento 
+- Curso para graduação na Universidade de Princeton
+- Profs. Benjamin Rice, Jessica Metcalf
+- Documento @fig-genomics[]
 
-// *Human Genomics: The Past, Present, and Future of the Human Genome* (2021)
+*Human Genomics: The Past, Present, and Future of the Human Genome* (2021)
 
-// - Curso para graduação na Universidade de Princeton
-// - Profs. Monah Singh, Sarah Kocher, Julien Ayroles
-// - Documento 
+- Curso para graduação na Universidade de Princeton
+- Profs. Monah Singh, Sarah Kocher, Julien Ayroles
+- Documento @fig-genomics[]
 
-// *Biologia Evolutiva*, IB, USP (2016)
+*Biologia Evolutiva*, IB, USP (2012, 2013, 2019)
 
-// - Curso para graduação em biologia do Prof. Gabriel Marroig
-// - Departamento de Genética e Biologia Evolutiva
+- Curso para graduação em biologia do Prof. Gabriel Marroig
+- Departamento de Genética e Biologia Evolutiva
+- Documento @fig-bioevol[]
 
 *Uso da linguagem R para análise de dados ecológicos*, IB, USP (2012-14)
 
