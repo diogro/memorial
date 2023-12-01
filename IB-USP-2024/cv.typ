@@ -21,7 +21,6 @@
 
 == Formação Acadêmica 
 
-
 2014-2019 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
   - Documento @fig-diploma_doc[]
   - Orientador: Gabriel Marroig
@@ -67,7 +66,7 @@
   - Documento @fig-FocalSNP[]
 
 
-== Publicações em periódicos
+== Publicações em periódicos indexados
 
 1. *Characterizing the landscape of gene expression variance in humans* #link("https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010833")[(#underline[link])] (2023) Scott Wolf\*, *Diogo Melo*\*, Kristina Garske, Luisa F. Pallares, Julien F. Ayroles. *PLoS Genetics*. 19, e1010833. doi: *10.1371/journal.pgen.1010833* #link("http://dx.doi.org/10.1371/journal.pgen.1010833")[(#underline[link])]
   - \* co-primeiro autores
@@ -225,8 +224,7 @@
 
 *Escrita Científica* (2020, 2021)
 
-- Disciplina ministrada no Programa de Pós-Graduação em Biologia (Genética)
-- Departamento de Genética e Biologia Evolutiva, IB-USP
+- Disciplina ministrada no Programa de Pós-Graduação em Ciências Biologias (Zoologia)
 - Carga horária de 120h
 - Documento @fig-escrita[]
 
@@ -241,6 +239,7 @@
 
 // - Disciplina ministrada no Programa de Pós-Graduação em Biologia Comparada da FFCLRP/USP
 // - Carga horária de 30h
+// - Documento @fig-modularidade[]
 
 *MCMC: passo a passo*, IB, USP (2017)
 

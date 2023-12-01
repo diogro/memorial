@@ -9,25 +9,25 @@
 
 #pagebreak()
 #figure(
-  image("../documentos/diploma_doc.png",width: 6in),
+  image("../documentos/diploma_doc.svg",width: 6in),
   caption: [Diploma de Doutorado.],
   supplement: [Documento],
 ) <fig-diploma_doc>
 
 #figure(
-  image("../documentos/diploma_mest.png",width: 6in),
+  image("../documentos/diploma_mest.svg",width: 6in),
   caption: [Diploma de Mestrado.],
   supplement: [Documento],
 ) <fig-diploma_mest>
 
 #figure(
-  image("../documentos/diploma_bio.png",width: 6in),
+  image("../documentos/diploma_bio.svg",width: 6in),
   caption: [Diploma de Curso de Ciências Biológicas.],
   supplement: [Documento],
 ) <fig-diploma_bio>
 
 #figure(
-  image("../documentos/diploma_ccm_a4.png",width: 6in),
+  image("../documentos/diploma_ccm_a4.svg",width: 6in),
   caption: [Diploma de Curso de Ciências Moleculares.],
   supplement: [Documento],
 ) <fig-diploma_ccm>
@@ -118,16 +118,16 @@
 ) <fig-cats>
 
 #figure(
-  image("../artigos/Integration.svg",width: 6in),
-  caption: [Artigo: #cite(<Machado2019-af>, form: "full").],
-  supplement: [Documento],
-) <fig-Integration>
-
-#figure(
   image("../artigos/Genomic_Perspective.svg",width: 6in),
   caption: [Artigo: #cite(<Melo2019-le>, form: "full").],
   supplement: [Documento],
 ) <fig-qtls>
+
+#figure(
+  image("../artigos/Integration.svg",width: 6in),
+  caption: [Artigo: #cite(<Machado2019-af>, form: "full").],
+  supplement: [Documento],
+) <fig-Integration>
 
 #figure(
   image("../artigos/ratones.svg",width: 6in),
@@ -291,6 +291,12 @@
   caption: [Certificado de curso ministrado.],
   supplement: [Documento],
 ) <fig-BE>
+
+// #figure(
+//   image("../certificados/modularidade.svg",width: 6in),
+//   caption: [Certificado de curso ministrado.],
+//   supplement: [Documento],
+// ) <fig-modularidade>
 
 #figure(
   image("../certificados/Chamada_workshop_2017.svg",width: 6in),
