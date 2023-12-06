@@ -1,12 +1,12 @@
-#align(center + horizon, text(20pt, font: "Skolar Sans PE TEST", weight: "extrabold")[
+#align(left + horizon, text(35pt, font: "Skolar Sans PE TEST", weight: "extrabold")[
   *Memorial de Atividades, Títulos e Publicações*
 ])
 
-#align(center + horizon, text(17pt, font: "Skolar Sans PE TEST", weight: "bold")[
+#align(left + horizon, text(20pt, font: "Skolar Sans PE TEST", weight: "bold")[
   *Concurso de Professor Doutor em RDIDP no Departamento de Botânica*
 ])
 
-#align(center + horizon, text(15pt, font: "Skolar Sans PE TEST", weight: "bold")[
+#align(top, text(15pt, font: "Skolar Sans PE TEST", weight: "bold")[
   #v(15pt)
   Instituto de Biociências
   #v(0.65pt)
