@@ -2,11 +2,11 @@
   *Memorial de Atividades, Títulos e Publicações*
 ])
 
-#align(left + horizon, text(20pt, font: "Skolar Sans PE TEST", weight: "bold")[
+#align(left, text(20pt, font: "Skolar Sans PE TEST", weight: "bold")[
   *Concurso de Professor Doutor em RDIDP no Departamento de Botânica*
 ])
 
-#align(top, text(15pt, font: "Skolar Sans PE TEST", weight: "bold")[
+#align(left, text(15pt, font: "Skolar Sans PE TEST", weight: "bold")[
   #v(15pt)
   Instituto de Biociências
   #v(0.65pt)
@@ -222,14 +222,14 @@ Com base nessas experiências didáticas, entendo que um bom curso de graduaçã
 
 == Teoria evolutiva
 
-Das disciplinas de graduação atualmente oferecidas pelo departamento, as que eu me sentiria mais confortável para ministrar seriam aquelas que envolvem ensino de evolução, como Processos Evolutivos, Biologia Evolutiva, Abordagens Multidisciplinares em Genética, ou uma das disciplinas de Genética e Evolução. Poderia também contribuir com a disciplina de Introdução à Programação de Computadores para Biologia ou a Introdução à Bioinformática.
+Das disciplinas de graduação atualmente oferecidas pelo IB, as que eu me sentiria mais confortável para ministrar seriam aquelas que envolvem ensino de evolução, como Processos Evolutivos, Biologia Evolutiva, Abordagens Multidisciplinares em Genética, ou uma das disciplinas de Genética e Evolução. Poderia também contribuir com a disciplina de Introdução à Programação de Computadores para Biologia ou a Introdução à Bioinformática, apresantando conceitos modernos em biologia de sistemas e bioinformática.
 
-Como disciplina eletiva, eu ofereceria uma disciplina de Teoria Evolutiva, apresentando de forma mais profunda os fundamentos teóricos da biologia evolutiva, abordando não só as formulações tradicionais em termos de frequências alélicas de Fisher e Wright, mas também as formulações modernas como o Teorema de Price ou a genética quantitativa multivariada e as aplicações destes formalismos, como melhoramento animal, mapeamento genético e estudos evolutivos em populações naturais. Numa versão avançada para a pós-graduação, uma disciplina de teoria evolutiva poderia abordar também seleção multinível, modelos de manutenção da variação genética e eventualmente, para alunos com algum conhecimento de cálculo, até mesmo a formulação usando equações diferenciais parciais da evolução de frequências alélicas iniciada por Kimura.
+Como disciplina eletiva, eu ofereceria uma disciplina de Teoria Evolutiva, apresentando de forma mais profunda os fundamentos teóricos da biologia evolutiva, abordando não só as formulações tradicionais em termos de frequências alélicas de Fisher e Wright, mas também as formulações modernas como o Teorema de Price ou a genética quantitativa multivariada e as aplicações destes formalismos, como melhoramento animal, mapeamento genético e estudos evolutivos em populações naturais. Numa versão avançada para a pós-graduação, uma disciplina de teoria evolutiva poderia abordar também seleção multinível, modelos de manutenção da variação genética e eventualmente, para alunos com algum conhecimento de cálculo, até mesmo a formulação usando equações diferenciais parciais da evolução de frequências alélicas iniciada por Kimura. 
 
 
 == Estatística na era da computação 
 
-Outra contribuição que eu poderia oferecer na graduação ou na pós-graduação seria uma disciplina de análise de dados utilizando ferramentas computacionais modernas e modelos Bayesianos. Na pós-graduação, essa disciplina poderia ser planejada em conjunto com as disciplinas de programação em R e modelagem estatística do Departamento de Ecologia, fornecendo aos alunos de pós do IB um caminho completo para uma formação moderna e adaptável em métodos estatísticos que os capacita para realizarem suas pesquisas com maior autonomia. Uma vantagem de oferecer esse tipo de disciplina no Instituto de Biociências é poder enfatizar aplicações em genética, como mapeamento genético ou modelos evolutivos e demográficos que não são incluídos nos cursos da matemática. Esses métodos estatísticos computacionais e de bioinformática são cada vez mais relevantes no estudo da genética, com a disseminação de dados genômicos de larga escala que exigem análises sofisticadas e específicas.
+Outra contribuição que eu poderia oferecer na graduação ou na pós-graduação seria uma disciplina de análise de dados utilizando ferramentas computacionais modernas e modelos Bayesianos aplicadas a problemas biológicos. Na pós-graduação, essa disciplina poderia ser planejada em conjunto com as disciplinas de programação em R e modelagem estatística do Departamento de Ecologia, fornecendo aos alunos de pós do IB um caminho completo para uma formação moderna e adaptável em métodos estatísticos que os capacita para realizarem suas pesquisas com maior autonomia. Uma vantagem de oferecer esse tipo de disciplina no Instituto de Biociências é poder enfatizar aplicações em genômica, como mapeamento genético, modelos evolutivos e demográficos, e métodos de análise de transcriptomas, que não figuram nos cursos da tradicionais. Esses métodos estatísticos computacionais e de bioinformática são cada vez mais relevantes na biologia, com a disseminação de dados genômicos de larga escala que exigem análises sofisticadas e específicas.
 
 = Atividades administrativas
 
