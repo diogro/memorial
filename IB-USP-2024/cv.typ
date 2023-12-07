@@ -273,15 +273,15 @@
 == Cursos Ministrados 
 
 1. *Programação para Biologia* (2023)
-  - Disciplina para graduação na Universidade de Princeton
+  - Disciplina para graduação na Universidade de Princetonsssss
   - Departamento de Ecologia e Biologia Evolutiva
   - Carga horária de 50h
   - Documentos @fig-EEB330[] e @fig-genomics[]
 
 2. *Statistical models: linking data to theory* (2023)
   - Curso de extensão no Programa de Formação em Ecologia Quantitativa
-  - Instituto Serrapilheira
-  // - @fig-serrapilheira[]
+  - Instituto Serrapilheir a
+  - @fig-serrapilheira1[] e @fig-serrapilheira2[]
 
 3. *Escrita Científica* (2020, 2021)
   - Disciplina ministrada no Programa de Pós-Graduação em Ciências Biologias (Zoologia)

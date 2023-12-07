@@ -283,11 +283,17 @@
   supplement: [Documento],
 ) <fig-EEB330>
 
-// #figure(
-//   image("../certificados/serrapilheira.svg",width: 6in),
-//   caption: [Certificado de curso ministrado.],
-//   supplement: [Documento],
-// ) <fig-serrapilheira>
+#figure(
+  image("../certificados/serrapilheira1.svg",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-serrapilheira1>
+
+#figure(
+  image("../certificados/serrapilheira2.svg",width: 6in),
+  caption: [Certificado de curso ministrado.],
+  supplement: [Documento],
+) <fig-serrapilheira2>
 
 #figure(
   image("../certificados/escrita_cientifica.svg",width: 6in),
