@@ -68,7 +68,7 @@
 2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
   - Orientador: Gabriel Marroig
   - Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
-  - Financiado por uma Bolsa FAPESP de mestrado (Documento )
+  - Financiado por uma Bolsa FAPESP de mestrado
   - Universidade de São Paulo
   - Documentos @fig-diploma_mest[] e @fig-outorga_mest[]
 
