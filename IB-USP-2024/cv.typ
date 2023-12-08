@@ -84,17 +84,17 @@
 
 == Publicações em pré-print
 
-1. _Revisiting the Modularity of Gene Co-Expression Networks Using the Stochastic Block Model_ #link("https://www.biorxiv.org/content/10.1101/2023.05.31.542906v1")[(#underline[link])] (2023)  
+1. _Reassessing the modularity of gene co-expression networks using the Stochastic Block Model_ #link("https://www.biorxiv.org/content/10.1101/2023.05.31.542906v1")[(#underline[link])] (2023)  
 
   *Diogo Melo*, L. F. Pallares, J. F. Ayroles. bioRxiv 2023.05.31.542906. doi: _10.1101/2023.05.31.542906_ #link("https://doi.org/10.1101/2023.05.31.542906")[(#underline[link])]
   - Documento @fig-SBM[]
 
-2. _Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations_ #link("https://www.biorxiv.org/content/10.1101/2023.05.20.541576v1")[(#underline[link])] (2023) 
+2. _Saturating the eQTL map in Drosophila melanogaster: genome-wide patterns of cis and trans regulation of transcriptional variation in outbred populations_ #link("https://www.biorxiv.org/content/10.1101/2023.05.20.541576v3")[(#underline[link])] (2023) 
 
   Luisa F. Pallares, *Diogo Melo*, S. Wolf, E. M. Cofer, V. Abhyankar, J. Peng, J. F. Ayroles. bioRxiv. doi: _10.1101/2023.05.20.541576_ #link("https://doi.org/10.1101/2023.05.20.541576")[(#underline[link])]
   - Documento @fig-eQTL[]
 
-3. _From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context_ #link("https://www.biorxiv.org/content/10.1101/2023.03.09.531909v1.abstract")[(#underline[link])] (2023) 
+3. _From GWAS to signal validation: An approach for estimating SNP genetic effects while preserving genomic context_ #link("https://www.biorxiv.org/content/10.1101/2023.03.09.531909v3")[(#underline[link])] (2023) 
 
   Wolf S., V. Abhyankar, *Diogo Melo*, J. F. Ayroles, L. F. Pallares. bioRxiv. doi: _10.1101/2023.03.09.531909_ #link("https://doi.org/10.1101/2023.03.09.531909")[(#underline[link])]
   - Documento @fig-FocalSNP[]
@@ -189,21 +189,21 @@
 
 == Participação em congressos 
 
-1. *Society for Molecular Biology and Evolution (SMBE) Meeting, Ferrara, Italy* (2023)
+1. *Society for Molecular Biology and Evolution (SMBE) Meeting*, Ferrara, Itália (2023)
 
   -  Forsberg S. K. G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L. P., Pallares L. F., Clark A. G., Ayroles J. F.
   -  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
   -  Poster
   - Documento @fig-smbe2023[]
 
-2. *Ecological and Evolutionary Genomics Gordon Research Conference*, Smithfield, RI, United States (2023)
+2. *Ecological and Evolutionary Genomics Gordon Research Conference*, Smithfield, RI, Estado Unidos da América (2023)
 
   -   Forsberg S. K. G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L. P., Pallares L. F., Clark A. G., Ayroles J. F.
   -  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
   -  Poster
   - Documento @fig-GRC2023[]
 
-3. *II Joint Congress on Evolutionary Biology*, Montpellier, France (2018)
+3. *II Joint Congress on Evolutionary Biology*, Montpellier, França (2018)
 
   - *Diogo Melo*, Eleanor O'Brien, John Hunt, Jason Wolf, Gabriel Marroig
   -  Genetic architecture and the evolution of variational modularity
@@ -217,21 +217,21 @@
   - Palestrante convidado
   - Documento @fig-evodevo[]
 
-5. A *Evolution Meeting*, Guarujá, Brazil (2015)
+5. A *Evolution Meeting*, Guarujá, Brasil (2015)
 
   - *Diogo Melo*, Anna Penna, Sandra Bernardi, Maria Oyarzabal, Gabriel Marroig
   - Changes in multivariate covariance structures under directional selection
   - Apresentação oral
   - Documento @fig-evol2015L[]
 
-5. B *Evolution Meeting*, Guarujá, Brazil (2015)
+5. B *Evolution Meeting*, Guarujá, Brasil (2015)
 
   - *Diogo Melo*, Gabriel Marroig
   - The Effect of Directional Selection on Pleiotropy and Modularity
   - Poster
   - Documento @fig-evol2015P[]
 
-6. *V Brazilian Meeting on Simulational Physics*, Ouro Preto, Brazil (2017)
+6. *V Brasilian Meeting on Simulational Physics*, Ouro Preto, Brasil (2017)
   - *Diogo Melo*, Vera Henriques
   - Order-disorder phase transitions on dissociating model lipid membranes
   - Poster
@@ -240,7 +240,7 @@
 == Cursos Ministrados 
 
 1. *Programação para Biologia* (2023)
-  - Disciplina para graduação na Universidade de Princetonsssss
+  - Disciplina para graduação na Universidade de Princeton
   - Departamento de Ecologia e Biologia Evolutiva
   - Carga horária de 50h
   - Documentos @fig-EEB330[] e @fig-genomics[]
