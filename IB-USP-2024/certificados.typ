@@ -73,17 +73,17 @@
   supplement: [Documento],
 ) <fig-diploma_ccm>
 
-#figure(
-  image("../bolsas/outorga_TT4.svg",width: 6in),
-  caption: [Termo de outorga da bolsa de treinamento técnico nível 4.],
-  supplement: [Documento],
-) <fig-outorga_TT4>
+// #figure(
+//   image("../bolsas/outorga_TT4.svg",width: 6in),
+//   caption: [Termo de outorga da bolsa de treinamento técnico nível 4.],
+//   supplement: [Documento],
+// ) <fig-outorga_TT4>
 
-#figure(
-  image("../bolsas/outorga_TT3.svg",width: 6in),
-  caption: [Termo de outorga da bolsa de treinamento técnico nível 3.],
-  supplement: [Documento],
-) <fig-outorga_TT3>
+// #figure(
+//   image("../bolsas/outorga_TT3.svg",width: 6in),
+//   caption: [Termo de outorga da bolsa de treinamento técnico nível 3.],
+//   supplement: [Documento],
+// ) <fig-outorga_TT3>
 
 #figure(
   image("../artigos/SBM.png",width: 6in),
@@ -246,36 +246,6 @@
   caption: [Certificado de apresentação em Congresso.],
   supplement: [Documento],
 ) <fig-sims>
-
-#figure(
-  image("../certificados/NIMBioS.svg",width: 6in),
-  caption: [Certificado de curso de extensão.],
-  supplement: [Documento],
-) <fig-nimbios>
-
-#figure(
-  image("../certificados/transmiting_science_2015.svg",width: 6in),
-  caption: [Certificado de curso de extensão.],
-  supplement: [Documento],
-) <fig-nets>
-
-#figure(
-  image("../certificados/SFI.svg",width: 6in),
-  caption: [Certificado de curso de extensão.],
-  supplement: [Documento],
-) <fig-sfi>
-
-#figure(
-  image("../certificados/Scan-140107-0008.svg",width: 6in),
-  caption: [Certificado de curso de extensão.],
-  supplement: [Documento],
-) <fig-embrio>
-
-#figure(
-  image("../certificados/Scan-140107-0010.svg",width: 6in),
-  caption: [Certificado de curso de extensão.],
-  supplement: [Documento],
-) <fig-neuro> 
 
 #figure(
   image("../certificados/EEB330.svg",width: 6in),

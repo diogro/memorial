@@ -38,26 +38,26 @@
 
 == Pós-doutorado
 
-2020-atual - *Pós doutorando no Departamento de Ecologia e Evolução* 
+- 2020-atual - *Pós doutorando no Departamento de Ecologia e Evolução* 
   - Financiado pela _Princeton Presidential Postdoctoral Research Fellows Program_
   - Universidade de Princeton, NJ, EUA
   - Documento @fig-princeton[]
 
-2019-2020 - *Pós doutorando no Departamento de Genética e Biologia Evolutiva*
+- 2019-2020 - *Pós doutorando no Departamento de Genética e Biologia Evolutiva*
   - Financiado por uma Bolsa FAPESP de pós-doutorado 
   - Instituto de Biociências, Universidade de São Paulo
   - Documento @fig-outorga_postdoc[]
 
 == Formação Acadêmica 
 
-2014-2019 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
+- 2014-2019 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
   - Orientador: Gabriel Marroig
   - Doutorado em Ciências com a tese "Evolução da covariação genética em caracteres complexos: interação entre o mapa genótipo-fenótipo e seleção natural"
   - Financiado por uma Bolsa FAPESP de doutorado
   - Universidade de São Paulo
   - Documentos @fig-diploma_doc[] e @fig-outorga_doc[]
 
-2014, 2016 - *Aluno de Doutorado visitante na Universidade de Bath*
+- 2014, 2016 - *Aluno de Doutorado visitante na Universidade de Bath*
   - Supervisor: Dr. Jason Wolf
   - Financiado por uma Bolsa BEPE-FAPESP de doutorado (2016)
   - Financiado pelo programa _Future Research Leaders Incubator Scheme_ (2016) e _Global Research Scholarship Scheme_ (2014) da Universidade de Bath
@@ -65,19 +65,19 @@
   - Documentos @fig-bath_letter[] e @fig-outorga_BEPE[]
 
 
-2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
+- 2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
   - Orientador: Gabriel Marroig
   - Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
   - Financiado por uma Bolsa FAPESP de mestrado
   - Universidade de São Paulo
   - Documentos @fig-diploma_mest[] e @fig-outorga_mest[]
 
-2007-09 - *Curso de Ciências Biológicas*
+- 2007-09 - *Curso de Ciências Biológicas*
   - Bacharel com ênfase em Biologia Evolutiva
   - Universidade de São Paulo
   - Documento @fig-diploma_bio[]
 
-2003-07 - *Curso de Ciências Moleculares*
+- 2003-07 - *Curso de Ciências Moleculares*
   - Bacharel com ênfase em biologia, matemática aplicada e mecânica estatística
   - Universidade de São Paulo
   - Documento @fig-diploma_ccm[]
@@ -191,14 +191,14 @@
 
 1. *Society for Molecular Biology and Evolution (SMBE) Meeting, Ferrara, Italy* (2023)
 
-  -  Forsberg S.K.G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L.P., Pallares L.F., Clark A.G., Ayroles J.
+  -  Forsberg S. K. G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L. P., Pallares L. F., Clark A. G., Ayroles J. F.
   -  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
   -  Poster
   - Documento @fig-smbe2023[]
 
 2. *Ecological and Evolutionary Genomics Gordon Research Conference*, Smithfield, RI, United States (2023)
 
-  -  Forsberg S.K.G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L.P., Pallares L.F., Clark A.G., Ayroles J.
+  -   Forsberg S. K. G., *Diogo Melo*, Wolf S., Grenier J. K., Tang M., Henry L. P., Pallares L. F., Clark A. G., Ayroles J. F.
   -  Longitudinal sequencing reveals polygenic and epistatic nature of genomic response to selection
   -  Poster
   - Documento @fig-GRC2023[]
@@ -236,39 +236,6 @@
   - Order-disorder phase transitions on dissociating model lipid membranes
   - Poster
   - Documento @fig-sims[]
-
-== Formação Complementar  
-
-1. *The Search For Selection* (2018)
-
-  - Knoxville, Tennessee
-  - Prof. Bruce Walsh
-  - NIMBioS, University of Tennessee 
-  - Documento @fig-nimbios[]
-
-2. *Introduction to Network Tools in Biosciences - 2nd Edition* (2015)
-
-  - Els Hostalets de Pierola, Spain
-  - Dr. Diego Rasskin-Gutman and Dr. Borja Esteve-Altava
-  - Transmiting Science
-  - Documento @fig-nets[]
-
-3. *Complex Systems Summer School* (2008)
-
-  - San Carlos de Bariloche, Argentina
-  - Santa Fe Institute
-  - Documento @fig-sfi[]
-
-4. *Curso em Embriologia de Mamíferos* (2008)
-
-  - ICB, USP
-  - Documento @fig-embrio[]
-
-5. *Course in Neurobiology* (2007)
-
-  - UNESP, Rio Claro
-  - Prof. Michael Hendrick, Prof. Tobias Wang
-  - Documento @fig-neuro[]
 
 == Cursos Ministrados 
 
@@ -342,7 +309,6 @@
   - Curso para pós-graduação em ecologia dos Profs. Glaudo Machado, Paulo Inácio Prado e Adriana Martini
   - Departamento de Ecologia
   - Documento @fig-campo[]
-
 
 7. *Processos Evolutivos*, IB, USP (2011)
   - Curso para graduação em biologia dos Profs. Diogo Meyer e Gabriel Marroig
