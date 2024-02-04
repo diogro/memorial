@@ -31,113 +31,108 @@
 
 *Diogo Amaral Rebouças Melo*
 
+- RG: 35.002.110-7
 - Email: diogro\@gmail.com
 - Google Scholar: - #link("https://scholar.google.com/citations?user=ymsxHCMAAAAJ&hl=en")
-- ORCID: - *0000-0002-7603-0092* #link("https://orcid.org/0000-0002-7603-0092")[(#underline[link])]
-- Research-ID: B-9282-2014
 
 = Titulação
-
-- 2014-2019 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
-  - Orientador: Gabriel Marroig
-  - Doutorado em Ciências com a tese "Evolução da covariação genética em caracteres complexos: interação entre o mapa genótipo-fenótipo e seleção natural"
-  - Universidade de São Paulo
-  - Documentos @fig-diploma_doc[]
 
 - 2010-12 - *Programa de Pós Graduação em Genética e Biologia Evolutiva*
   - Orientador: Gabriel Marroig
   - Mestre em Ciências com a dissertação "Evolução Morfológica e Modularidade"
   - Universidade de São Paulo
-  - Documentos @fig-diploma_mest[]
+  - Documento @fig-diploma_mest[]
 
 = Produção Científica
 
-== Publicações em periódicos indexados
+== Publicações em periódicos indexados como primeiro autor ou autor correspondente
 
 1. _Characterizing the landscape of gene expression variance in humans_ #link("https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010833")[(#underline[link])] (2023)
 
-  Wolf S.\*, *Diogo Melo*\*, K. Garske, L. F. Pallares, J. F. Ayroles. _PLoS Genetics_. 19, e1010833. doi: _10.1371/journal.pgen.1010833_ #link("http://dx.doi.org/10.1371/journal.pgen.1010833")[(#underline[link])]
+  Wolf S.\*, *Diogo Melo*\*, K. Garske, L. F. Pallares, J. F. Ayroles. _PLoS Genetics_. 19, e1010833. #link("http://dx.doi.org/10.1371/journal.pgen.1010833")[(#underline[link])]
   - \* co-primeiro autores
   - Documento @fig-exp_var[]
 
+2. _Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution_ #link("https://academic.oup.com/jhered/article/110/4/479/5463195")[(#underline[link])] (2019) 
 
-2. _Morphological integration during postnatal ontogeny: implications for evolutionary biology_ #link("https://academic.oup.com/evolut/article/77/3/763/6957025")[(#underline[link])] (2023) 
-
-  Hubbe A., F. Machado,  *Diogo Melo*, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig. _Evolution_. 2023 77(3): 763–775. doi:- _10.1093/evolut/qpac052_ #link("https://doi.org/10.1093/evolut/qpac052")[(#underline[link])]
-  - Documento @fig-ontogenia[]
-
-3. _Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels_ #link("https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881")[(#underline[link])] (2020) 
-
-  Fukimoto N., *Diogo Melo*, R. Palme, A. J. Zanella, O. Mendonça-Furtado. _Applied Animal Behaviour Science_. 2020 224:104919. doi:10.1016/j.applanim.2019.104919
-  - Documento @fig-cats[]
-
-4. _Genomic Perspective on Multivariate Variation, Pleiotropy, and Evolution_ #link("https://academic.oup.com/jhered/article/110/4/479/5463195")[(#underline[link])] (2019) 
-
-  *Diogo Melo*, G. Marroig,  J. B. Wolf. _Journal Of Heredity_.  2019 110(4):479-493. doi:10.1093/jhered/esz011
+  *Diogo Melo*, G. Marroig,  J. B. Wolf. _Journal Of Heredity_.  2019 110(4):479-493. 
   - Documento @fig-qtls[]
 
-5. _Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size_ #link("https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13864")[(#underline[link])] (2019) 
-
-  Machado F., A. Hubbe, *Diogo Melo*, A. Porto, G. Marroig. _Evolution_. 2019 73(12):2518-2528. doi:10.1111/evo.13864
-  - Documento @fig-Integration[]
-
-6. _The evolution of phenotypic integration: How directional selection reshapes covariation in mice_ #link("http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract")[(#underline[link])] (2017)
+3. _The evolution of phenotypic integration: How directional selection reshapes covariation in mice_ #link("http://onlinelibrary.wiley.com/doi/10.1111/evo.13304/abstract")[(#underline[link])] (2017)
     
-    Penna A.\*, *Diogo Melo*\*, S. Bernardi, M. I. Oyarzabal, G. Marroig.  _Evolution_, 2017 71(10):2370–2380. doi:10.1111/evo.13304
+    Penna A.\*, *Diogo Melo*\*, S. Bernardi, M. I. Oyarzabal, G. Marroig.  _Evolution_, 2017 71(10):2370–2380.
   - \* co-primeiro autores
   - Documento @fig-ratones[]
 
-7. _Insights from Systems Biology in Physiological Studies: Learning from Context_ #link("https://www.karger.com/Article/FullText/478648")[(#underline[link])] (2017)
-  
-  Imenez Silva P. H., *Diogo Melo*, P. O. R. de Mendonça. _Cell Physiology and Biochemestry_, 2017 42(3):939-951. doi:10.1159/000478648
-  - Documento @fig-sysbio[]
 
-8. _Modularity: Genes, Development, and Evolution_ #link("http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409")[(#underline[link])] (2016) *Diogo Melo*\*, A. Porto\*, J. M. Cheverud, G. Marroig. _Annual Review of Ecology, Evolution, and Systematics_, 2016 47:463-486 
+4. _Modularity: Genes, Development, and Evolution_ #link("http://annualreviews.org/doi/abs/10.1146/annurev-ecolsys-121415-032409")[(#underline[link])] (2016) *Diogo Melo*\*, A. Porto\*, J. M. Cheverud, G. Marroig. _Annual Review of Ecology, Evolution, and Systematics_, 2016 47:463-486 
   - \* co-primeiro autores
   - Documento @fig-Modularity_Genes[]
 
-9. _Costly learning: preference for familiar food persists despite negative impact on survival_ #link("http://rsbl.royalsocietypublishing.org/content/12/7/20160256")[(#underline[link])] (2016)
+5. _EvolQG - An R package for evolutionary quantitative genetics_ #link("http://f1000research.com/articles/4-925/v3")[(#underline[link])] (2015)
 
-    Costa T. M., E. A. Hebets, *Diogo Melo*, R. H. Willemart. _Biology Letters_, 2016 20160256. doi:10.1098/rsbl.2016.0256
-  - Documento @fig-Costly[]
-
-10. _A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology_ #link("http://www.bioone.org/doi/abs/10.1017/pab.2015.49")[(#underline[link])] (2016) 
-
-  Hubbe A., *Diogo Melo*, G. Marroig. _Paleobiology_, 2016 42(3):465-488 doi:10.1017/pab.2015.49
-  - Documento @fig-Xenarthra[] 
-
-11. _EvolQG - An R package for evolutionary quantitative genetics_ #link("http://f1000research.com/articles/4-925/v3")[(#underline[link])] (2015)
-
-  *Diogo Melo*, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig._F1000 Research_, 2015 4:925 doi:10.12688/f1000research.7082.3
+  *Diogo Melo*, G. Garcia, A. Hubbe, A. P. Assis, G. Marroig._F1000 Research_, 2015 4:925
   - Documento @fig-evolqg[]
 
-12. _Fitness Trade-offs Result in the Illusion of Social Success_ #link("https://doi.org/10.1016/j.cub.2015.02.061")[(#underline[link])] (2015)
-  
-  Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, *Diogo Melo*, D. Rozen, C. R. L. Thompson. _Current Biology_, 2015 25(8):1086–1090 doi:10.1016/j.cub.2015.02.061
-  - Documento @fig-dicty[]
-
-13. _Directional Selection can Drive the Evolution of Modularity in Complex Traits_ #link("http://www.pnas.org/content/112/2/470.abstract")[(#underline[link])] (2015)
-  *Diogo Melo*, G. Marroig. _PNAS_, 2015 112(2):470-475 doi:10.1073/pnas.1322632112
+6. _Directional Selection can Drive the Evolution of Modularity in Complex Traits_ #link("http://www.pnas.org/content/112/2/470.abstract")[(#underline[link])] (2015)
+  *Diogo Melo*, G. Marroig. _PNAS_, 2015 112(2):470-475
   - Documento @fig-DirectionalSelection[]
+
+== Publicações em periódicos indexados como autor colaborador
+
+1. _Morphological integration during postnatal ontogeny: implications for evolutionary biology_ #link("https://academic.oup.com/evolut/article/77/3/763/6957025")[(#underline[link])] (2023) 
+
+  Hubbe A., F. Machado,  *Diogo Melo*, G. Garcia, H. Sebastião, A. Porto, J. Cheverud, G. Marroig. _Evolution_. 2023 77(3): 763–775. #link("https://doi.org/10.1093/evolut/qpac052")[(#underline[link])]
+  - Documento @fig-ontogenia[]
+
+2. _Are cats less stressed in homes than in shelters? A study of personality and faecal cortisol metabolites levels_ #link("https://www.sciencedirect.com/science/article/abs/pii/S0168159119301881")[(#underline[link])] (2020) 
+
+  Fukimoto N., *Diogo Melo*, R. Palme, A. J. Zanella, O. Mendonça-Furtado. _Applied Animal Behaviour Science_. 2020 224:104919. 
+  - Documento @fig-cats[]
+
+3. _Measuring the magnitude of morphological integration: the effect of differences in morphometric representations and the inclusion of size_ #link("https://onlinelibrary.wiley.com/doi/abs/10.1111/evo.13864")[(#underline[link])] (2019) 
+
+  Machado F., A. Hubbe, *Diogo Melo*, A. Porto, G. Marroig. _Evolution_. 2019 73(12):2518-2528. 
+  - Documento @fig-Integration[]
+
+4. _Insights from Systems Biology in Physiological Studies: Learning from Context_ #link("https://www.karger.com/Article/FullText/478648")[(#underline[link])] (2017)
+  
+  Imenez Silva P. H., *Diogo Melo*, P. O. R. de Mendonça. _Cell Physiology and Biochemestry_, 2017 42(3):939-951.
+  - Documento @fig-sysbio[]
+
+5. _Costly learning: preference for familiar food persists despite negative impact on survival_ #link("http://rsbl.royalsocietypublishing.org/content/12/7/20160256")[(#underline[link])] (2016)
+
+    Costa T. M., E. A. Hebets, *Diogo Melo*, R. H. Willemart. _Biology Letters_, 2016 20160256. 
+  - Documento @fig-Costly[]
+
+6. _A case study of extant and extinct Xenarthra cranium covariance structure: Implications and applications to paleontology_ #link("http://www.bioone.org/doi/abs/10.1017/pab.2015.49")[(#underline[link])] (2016) 
+
+  Hubbe A., *Diogo Melo*, G. Marroig. _Paleobiology_, 2016 42(3):465-488
+  - Documento @fig-Xenarthra[] 
+
+7. _Fitness Trade-offs Result in the Illusion of Social Success_ #link("https://doi.org/10.1016/j.cub.2015.02.061")[(#underline[link])] (2015)
+  
+  Wolf J. B., J. A. Howie, K. Parkinson, N. Gruenheit, *Diogo Melo*, D. Rozen, C. R. L. Thompson. _Current Biology_, 2015 25(8):1086–1090
+  - Documento @fig-dicty[]
 
 == Capítulos de livro 
 
-1. _How does modularity in the genotype-phenotype map interact with development and evolution?_ #link("https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11")[(#underline[link])] (2019) *Diogo Melo*. In: _Old Questions and Young Approaches to Animal Evolution_. Martín-Durán J., Vellutini B. (eds) Fascinating Life Sciences. Springer, Cham. doi:10.1007/978-3-030-18202-1_11
+1. _How does modularity in the genotype-phenotype map interact with development and evolution?_ #link("https://link.springer.com/chapter/10.1007/978-3-030-18202-1_11")[(#underline[link])] (2019) *Diogo Melo*. In: _Old Questions and Young Approaches to Animal Evolution_. Martín-Durán J., Vellutini B. (eds) Fascinating Life Sciences. Springer, Cham. 
   - Documento @fig-cap_oqya[]
 
-2. _Modularity and Integration_ #link("http://www.sciencedirect.com/science/article/pii/B9780128000496000445")[(#underline[link])] (2016) Assis A. P., B. Costa, D. Rossoni, *Diogo Melo*, G. Marroig. _Encyclopedia of Evolutionary Biology_, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. doi:10.1016/B978-0-12-800049-6.00044-5
+2. _Modularity and Integration_ #link("http://www.sciencedirect.com/science/article/pii/B9780128000496000445")[(#underline[link])] (2016) Assis A. P., B. Costa, D. Rossoni, *Diogo Melo*, G. Marroig. _Encyclopedia of Evolutionary Biology_, 2016 vol. 3, pp. 34–40. Oxford: Academic Press. 
   - Documento @fig-cap_mod[]
 
 == Artigos anteriores a 2014
 
 1. _Modularity, Noise, and Natural Selection_ #link("http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01555.x/abstract")[(#underline[link])] (2012)
   
-  Marroig G., *Diogo Melo*, G. Garcia. _Evolution_, 2012 66(5):1506–1524 doi:10.1111/j.1558-5646.2011.01555.x
+  Marroig G., *Diogo Melo*, G. Garcia. _Evolution_, 2012 66(5):1506–1524 
   - Documento @fig-Noise[]
 
 2. _Selection Response Decomposition (SRD): A New Tool for Dissecting Differences and Similarities Between Matrices_ #link("http://link.springer.com/article/10.1007%2Fs11692-010-9107-2")[(#underline[link])] (2012)
 
-  Marroig G., *Diogo Melo*, A. Porto, G. Garcia e H. Sebastião. _Evolutionary Biology_, 2011 38:225-241 doi:10.1007/s11692-010-9107-2
+  Marroig G., *Diogo Melo*, A. Porto, G. Garcia e H. Sebastião. _Evolutionary Biology_, 2011 38:225-241 
   - Documento @fig-SRD[]
 
 == Publicações em pré-print
@@ -201,7 +196,7 @@
   - Documentos @fig-bath_letter[] e @fig-outorga_BEPE[]
 
 
-= Apresentação de trabalho em congressos e reuniões científica
+= Apresentação de trabalho em congressos e reuniões científicas
 
 1. *Society for Molecular Biology and Evolution (SMBE) Meeting*, Ferrara, Itália (2023)
 

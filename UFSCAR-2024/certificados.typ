@@ -13,12 +13,6 @@
 #pagebreak()
 
 #figure(
-  image("../documentos/diploma_doc.svg",width: 6in),
-  caption: [Diploma de Doutorado.],
-  supplement: [Documento],
-) <fig-diploma_doc>
-
-#figure(
   image("../documentos/diploma_mest.svg",width: 6in),
   caption: [Diploma de Mestrado.],
   supplement: [Documento],
@@ -29,6 +23,36 @@
   caption: [Artigo: #cite(<Wolf2023-zw>, form: "full").],
   supplement: [Documento],
 ) <fig-exp_var>
+
+#figure(
+  image("../artigos/Genomic_Perspective.svg",width: 6in),
+  caption: [Artigo: #cite(<Melo2019-le>, form: "full").],
+  supplement: [Documento],
+) <fig-qtls>
+
+#figure(
+  image("../artigos/ratones.svg",width: 6in),
+  caption: [Artigo: #cite(<Penna2017-if>, form: "full").],
+  supplement: [Documento],
+) <fig-ratones>
+
+#figure(
+  image("../artigos/Modularity_Genes.svg",width: 6in),
+  caption: [Artigo: #cite(<Melo2016-yw>, form: "full").],
+  supplement: [Documento],
+) <fig-Modularity_Genes>
+
+#figure(
+  image("../artigos/evolqg.svg",width: 6in),
+  caption: [Artigo: #cite(<Melo2015-kf>, form: "full").],
+  supplement: [Documento],
+) <fig-evolqg>
+
+#figure(
+  image("../artigos/DirectionalSelection.svg",width: 6in),
+  caption: [Artigo: #cite(<Melo2015-bk>, form: "full").],
+  supplement: [Documento],
+) <fig-DirectionalSelection>
 
 #figure(
   image("../artigos/Ontogeny.svg",width: 6in),
@@ -42,11 +66,6 @@
   supplement: [Documento],
 ) <fig-cats>
 
-#figure(
-  image("../artigos/Genomic_Perspective.svg",width: 6in),
-  caption: [Artigo: #cite(<Melo2019-le>, form: "full").],
-  supplement: [Documento],
-) <fig-qtls>
 
 #figure(
   image("../artigos/Integration.svg",width: 6in),
@@ -54,11 +73,7 @@
   supplement: [Documento],
 ) <fig-Integration>
 
-#figure(
-  image("../artigos/ratones.svg",width: 6in),
-  caption: [Artigo: #cite(<Penna2017-if>, form: "full").],
-  supplement: [Documento],
-) <fig-ratones>
+
 
 #figure(
   image("../artigos/Insights_from_Systems_Biology.svg",width: 6in),
@@ -66,11 +81,7 @@
   supplement: [Documento],
 ) <fig-sysbio>
 
-#figure(
-  image("../artigos/Modularity_Genes.svg",width: 6in),
-  caption: [Artigo: #cite(<Melo2016-yw>, form: "full").],
-  supplement: [Documento],
-) <fig-Modularity_Genes>
+
 
 #figure(
   image("../artigos/Costly.svg",width: 6in),
@@ -84,23 +95,13 @@
   supplement: [Documento],
 ) <fig-Xenarthra>
 
-#figure(
-  image("../artigos/evolqg.svg",width: 6in),
-  caption: [Artigo: #cite(<Melo2015-kf>, form: "full").],
-  supplement: [Documento],
-) <fig-evolqg>
+
 
 #figure(
   image("../artigos/Fitness_Trade-offs.svg",width: 6in),
   caption: [Artigo: #cite(<Wolf2015-es>, form: "full").],
   supplement: [Documento],
 ) <fig-dicty>
-
-#figure(
-  image("../artigos/DirectionalSelection.svg",width: 6in),
-  caption: [Artigo: #cite(<Melo2015-bk>, form: "full").],
-  supplement: [Documento],
-) <fig-DirectionalSelection>
 
 
 
