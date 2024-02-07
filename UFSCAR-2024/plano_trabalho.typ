@@ -27,7 +27,7 @@
   paper: "a4",
   header:[
     #set text(9pt, font: "Skolar PE TEST")
-    Memorial
+    Plano de Trabalho
     #h(1fr) Diogo Melo
   ],
   numbering: "1",
@@ -54,7 +54,7 @@
   *Apresentação*
 ])
 
-Apresento este plano de trabalho atendendo ao Edital 01623.12 publicado pela reitoria da Universidade Federal de São Carlos no Diário Oficial da União de 10 de outubro de 2023, referente ao concurso para o cargo de professor adjunto A na área Genética Evolutiva junto ao Departamento de Genética e Evolução da Universidade Federal de São Carlos.
+Apresento este plano de trabalho atendendo ao Edital 01623.12 publicado pela reitoria da Universidade Federal de São Carlos no Diário Oficial da União de 3 de Novembro de 2023, referente ao concurso para o cargo de professor adjunto A na área Genética Evolutiva junto ao Departamento de Genética e Evolução da Universidade Federal de São Carlos.
 
 #pagebreak()
 
@@ -74,7 +74,7 @@ Apresento este plano de trabalho atendendo ao Edital 01623.12 publicado pela rei
 
 Neste projeto, apresentamos uma visão integrativa de como quantificar entender as perturbações fisiológicas decorrentes dessas pressões ambientais e seletivas. Organismos estão sujeitos a diversos tipos de stress, decorrentes de atividade antrópica, pressões ambientais, aquecimento global, mudanças climáticas, perda dos seus habitats, competição por recursos escassos, entre outros. Todos esse processos induzem processos plásticos e adaptativos em populações naturais, alterando a distribuição dos caracteres fenotípicos e a aptidão dos indivíduos. 
 
-Caracteres moleculares, metabólicos, fisiológicos, morfológicos, tem seu desempenho e aptidão derivados, em parte, da interação com outros caracteres. O nível ótimo de expressão de um gene depende criticamente da expressão de outros genes para que seu papel possa ser desempenhado com sucesso. O balanço entre a expressão de todos os genes num organismo leva a um determinado padrão de co-expressão, que pode ser capturado a partir das correlações entre os níveis de expressão genética entre indivíduos. Essa mesma regra se aplica para todos os outros tipos de caracteres. Alterações ocasionadas por stress podem levar a disrupção entre esses padrões de co-expressão fenotípicos, levando a um processo que batizamos de decoerência. A decoerência entre caracteres se manifesta como um estado fisiológico com menor aptidão, podendo levar a uma série de complicações.
+Caracteres moleculares, metabólicos, fisiológicos, morfológicos, tem seu desempenho e aptidão derivados, em parte, da interação com outros caracteres. O nível ótimo de expressão de um gene depende criticamente da expressão de outros genes para que seu papel possa ser desempenhado com sucesso. O balanço entre a expressão de todos os genes num organismo leva a um determinado padrão de co-expressão, que pode ser capturado a partir das correlações entre os níveis de expressão genética entre indivíduos. Essa mesma regra se aplica para todos os outros tipos de caracteres. Alterações ocasionadas por stress podem levar a disrupção entre esses padrões de co-expressão fenotípicos, levando a um processo que chamamos de decoerência @Lea2019-pq. A decoerência entre caracteres se manifesta como um estado fisiológico com menor aptidão, podendo levar a uma série de complicações.
 
 
 
@@ -83,6 +83,18 @@ Caracteres moleculares, metabólicos, fisiológicos, morfológicos, tem seu dese
 
 - Alterações ocasionadas por stress podem levar a disrupção entre esses padrões de co-expressão fenotípicos, levando a um processo que batizamos de decoerência. 
 - A decoerência entre caracteres se manifesta como um estado fisiológico com menor aptidão, podendo levar a uma série de complicações.
+
+== Objetivos
+
+1. Caracterizar o padrão de decoerência em populações expostas a diferentes tipos de stress. Relacionar esse padrão com as respostas plasticas e adpatativas ao stress sofrido.
+
+2. Utilizar mapeamento genético para entender a arquitetura genética do padrão de docoerência a um stress ambiental. 
+
+3. Desenvolver métodos estatísticos para a detecção e interpretação dos padrão de decoerência, com foco  no desenvolvimento de métodos de clustering que possam ajudar a interpretar padrões de decoerência.
+
+== Metodologia
+
+
 
 = Extensão
 
@@ -102,17 +114,26 @@ Durante o pós-doutorado na USP, ofereci uma disciplina de pós-graduação com 
 
 Já no meu Pós-doutorado na Universidade de Princeton, participei como monitor de uma disciplina de Genética Humana, Bioinformática, e Biologia Evolutiva, ministrada pelos professores Mona Singh, Sarah Kocher e Julien Ayroles; e de uma disciplina de Epidemiologia, ministrada pelo Dr. Benjamin Rice, para a qual minha experiência no Observatório Covid-19 BR foi fundamental. No último ano, fui também responsável por desenvolver e ministrar uma disciplina de Computação para Biologia, que apresentava aos alunos de graduação de diversos departamentos os principais conceitos de programação e análise de dados em R e Python, com um foco na pesquisa em ecologia e genômica.
 
-Com base nessas experiências didáticas, entendo que um bom curso de graduação ou de pós-graduação deveria oferecer as ferramentas para que os alunos possam se tornar capazes de idealizar, analisar e interpretar seus dados e experimentos de forma independente. Para isso, é fundamental oferecer tanto disciplinas instrumentais quanto teóricas. Nesse contexto, apresento  algumas propostas de contribuições que poderia fornecer ao departamento, buscando proporcionar aos alunos da UFSCAR a melhor formação possível, voltada para o pensamento crítico, independência e rigor científico.
+Com base nessas experiências didáticas, entendo que um bom curso de graduação ou de pós-graduação deveria oferecer as ferramentas para que os alunos possam se tornar capazes de idealizar, analisar e interpretar seus dados e experimentos de forma independente. Para isso, é fundamental oferecer tanto disciplinas instrumentais quanto teóricas. Nesse contexto, apresento  algumas propostas de contribuições que poderia fornecer ao departamento, buscando proporcionar aos alunos da UFSCAR a melhor formação possível, voltada para o pensamento crítico, independência e rigor científico. 
 
-== Teoria evolutiva
+== Disciplinas de graduação existentes
 
-Com o avanço das tecnologias de sequenciamento de DNA e RNA, e de outras técnicas de alta precisão, a quantidade de dados genômicos e de fenótipos moleculares disponíveis cresceu exponencialmente. Este acúmulo de informações, embora seja um marco importante, trouxe uma complexidade sem precedentes na análise e compreensão dos dados. A única forma de lidar com essa complexidade é uma abordagem integrativa, que combine teoria, experimentos e análises computacionais. Uma percepção importante é a quantidade de _insight_ biológico acumulado nos anos de pesquisa em evolução morfológica e na ampla teoria de genética quantitativa desenvolvida no seculo XX. De fato, uma espécie de redescobrimento da genética quantitativa foi um dos artigos mais influentes dos últimos anos @Boyle2017-jh, destacando como muitas variantes de pequenos efeitos podem interagir para produzir fenótipos complexos. A genética quantitativa evolutiva é uma ferramenta poderosa para entender e esmiuçar a arquitetura genética de fenótipos complexos.
+Das disciplinas de graduação atualmente oferecidas pelo Departamento de Genética e Evolução, posso atual naquelas que envolvem ensino de evolução, como Evolução: o fato evolutivo, Evolução: O Processo Evolutivo. Poderia também colaborar com as disciplinas relacionadas a genética, como Princípios da Genética, Genética Molecular, e também poderia colaborar com as disciplinas quantitativas, como Biologia
+Quantitativa e eventualmente até com a disciplina de Cálculo para Biocientistas, procurando tornar estes cursos ainda mais interessantes e afinados com os interesses de biólogos em formação.
 
-Das disciplinas de graduação atualmente oferecidas pelo Departamento de Genética e Evolução, as que eu gostaria de ministrar seriam aquelas que envolvem ensino de evolução, como Evolução: o fato evolutivo, Evolução: O Processo Evolutivo. Como disciplina eletiva, eu poderia oferecer uma disciplina de Teoria Evolutiva, apresentando de forma mais profunda os fundamentos teóricos da biologia evolutiva, abordando não só as formulações tradicionais em termos de frequências alélicas de Fisher e Wright, mas também as formulações algébricas como o Teorema de Price ou a genética quantitativa multivariada e as aplicações destes formalismos, como melhoramento animal, mapeamento genético e estudos evolutivos em populações naturais. Numa versão avançada para a pós-graduação, uma disciplina de teoria evolutiva poderia abordar também seleção multinível, modelos de manutenção da variação genética e eventualmente, para alunos com algum conhecimento de cálculo, até mesmo a formulação usando equações diferenciais parciais da evolução de frequências alélicas iniciada por Kimura. 
+== Propostas de disciplinas de graduação e pós-graduação
 
-== Estatística na era da computação 
+Com o avanço das tecnologias de sequenciamento de DNA e RNA, e de outras técnicas de alta precisão, a quantidade de dados genômicos e de fenótipos moleculares disponíveis cresceu exponencialmente. Este acúmulo de informações, embora seja um marco importante, trouxe uma complexidade sem precedentes na análise e compreensão dos dados. A única forma de lidar com essa complexidade é uma abordagem integrativa, que combine teoria, experimentos e análises computacionais. A genética quantitativa evolutiva é uma ferramenta poderosa para entender e esmiuçar a arquitetura genética de fenótipos complexos.
 
-Outra contribuição que eu poderia oferecer na graduação ou na pós-graduação seria uma disciplina de análise de dados utilizando ferramentas computacionais modernas e modelos Bayesianos aplicadas a problemas biológicos. Na graduação, eu poderia oferecer uma discplina optativa de Introdução à Programação de Computadores para Biologia, apresentando as principais ferramentas para o processamento de dados biológicos; ou uma disciplina de modelagem estatística, trazendo minha experiencia de ensino em estatística aplicada a biologia. Na pós-graduação, essa disciplina poderia ser planejada em conjunto com uma disciplina de programação em R, fornecendo aos alunos de pós-graduação da UFSCAR um caminho completo para uma formação moderna e adaptável em métodos estatísticos que os capacita para realizarem suas pesquisas com maior autonomia. Uma vantagem de oferecer esse tipo de disciplina no Departamento de Genética e Evolução é poder enfatizar aplicações em genômica, como mapeamento genético, modelos evolutivos e demográficos, e métodos de análise de transcriptomas, que não figuram nos cursos da tradicionais. Esses métodos estatísticos computacionais e de bioinformática são cada vez mais relevantes na biologia, com a disseminação de dados genômicos de larga escala que exigem análises sofisticadas e específicas.
+=== Teoria Evolutiva
+
+Como disciplina eletiva, eu poderia oferecer uma disciplina de Teoria Evolutiva, apresentando de forma mais profunda os fundamentos teóricos da biologia evolutiva, abordando não só as formulações tradicionais em termos de frequências alélicas de Fisher e Wright, mas também as formulações algébricas como o Teorema de Price ou a genética quantitativa multivariada e as aplicações destes formalismos, como melhoramento animal, mapeamento genético e estudos evolutivos em populações naturais. Numa versão avançada para a pós-graduação, uma disciplina de teoria evolutiva poderia abordar também seleção multinível, modelos de manutenção da variação genética e eventualmente, para alunos com algum conhecimento de cálculo, até mesmo a formulação usando equações diferenciais parciais da evolução de frequências alélicas iniciada por Kimura. 
+
+O objetivo desse disciplina seria introduzir os principais modelos da teoria evolutiva, e mostrar como esses modelos podem ser aplicados a problemas biológicos concretos. A disciplina poderia ser adaptada  para alunos de graduação ou pós-graduação, com uma ênfase maior em aplicações práticas para os alunos de graduação e uma ênfase maior em formalismos teóricos para os alunos de pós-graduação. Esses disciplinas teriam componentes teóricos e práticos, com aulas expositivas e exercícios práticos em R.  
+
+=== Estatística na era da computação 
+
+Outra contribuição que eu poderia oferecer na graduação ou na pós-graduação seria uma disciplina de análise de dados utilizando ferramentas computacionais modernas e modelos Bayesianos aplicadas a problemas biológicos. Na graduação, eu poderia oferecer uma discplina optativa de Introdução à Programação de Computadores para Biologia, apresentando as principais ferramentas para o processamento de dados biológicos; ou uma disciplina de modelagem estatística, trazendo minha experiencia de ensino em estatística aplicada a biologia. Na pós-graduação, essa disciplina poderia ser planejada em conjunto com uma disciplina de programação em R, fornecendo aos alunos de pós-graduação da UFSCAR um caminho completo para uma formação moderna e adaptável em métodos estatísticos que os capacita para realizarem suas pesquisas com maior autonomia. Uma vantagem de oferecer esse tipo de disciplina no Departamento de Genética e Evolução é poder enfatizar aplicações em genômica, como mapeamento genético, modelos evolutivos e demográficos, e métodos de análise de transcriptomas, que não figuram nos cursos da tradicionais. Esses métodos estatísticos computacionais e de bioinformática são cada vez mais relevantes na biologia, com a disseminação de dados genômicos de larga escala que exigem análises sofisticadas e específicas. O objetivo dessas disciplinas seria aumentar o leque de ferramentas disponíveis para os alunos, permitindo que eles possam realizar análises que sejam desenhadas especificamente para suas perguntas biológicas.
 
 #set par(
   leading: 0.65em,
